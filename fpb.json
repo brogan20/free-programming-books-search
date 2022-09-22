@@ -3965,7 +3965,13 @@
                   },
                   {
                      "section": "شبکه",
-                     "entries": [],
+                     "entries": [
+                        {
+                           "url": "http://networksciencebook.com",
+                           "title": "علم شبکه",
+                           "author": "آلبرت لازلو باراباسی"
+                        }
+                     ],
                      "subsections": []
                   },
                   {
@@ -23841,7 +23847,61 @@
                   },
                   {
                      "section": "Unix",
-                     "entries": [],
+                     "entries": [
+                        {
+                           "url": "http://lib.ru/BACH",
+                           "title": "Архитектура операционной системы Unix",
+                           "author": "Maurice J. Bach,"
+                        },
+                        {
+                           "url": "http://lib.ru/unixhelp",
+                           "title": "Введение в системное администрирование UNIX",
+                           "author": "Мошков Максим Евгеньевич"
+                        },
+                        {
+                           "url": "http://www.opennet.ru/docs/RUS/lki",
+                           "title": "Внутреннее устройство Ядра Linux 2.4",
+                           "author": "Tigran Aivazian"
+                        },
+                        {
+                           "url": "http://man-pages-ru.sourceforge.net",
+                           "title": "Перевод Linux kernel and C library."
+                        },
+                        {
+                           "url": "http://www.opennet.ru/docs/RUS/zlp",
+                           "title": "Программирование в Linux с нуля",
+                           "author": "Nikolay N. Ivanov"
+                        },
+                        {
+                           "url": "http://www.opennet.ru/docs/RUS/Lpg",
+                           "title": "Руководство программиста для Linux",
+                           "author": "Sven Goldt, Matt Welsh"
+                        },
+                        {
+                           "url": "http://www.opennet.ru/docs/RUS/lpg",
+                           "title": "Энциклопедия программиста Linux",
+                           "author": "Алексей Паутов"
+                        },
+                        {
+                           "url": "http://www.opennet.ru/docs/RUS/lkmpg",
+                           "title": "Энциклопедия разработчика модулей ядра Linux",
+                           "author": "Ori Pomerantz"
+                        },
+                        {
+                           "url": "http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html",
+                           "title": "Beyond Linux From Scratch (version 2011-12-30)",
+                           "author": "The BLFS Development Team,"
+                        },
+                        {
+                           "url": "http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html",
+                           "title": "Linux From Scratch (version 6.8)"
+                        },
+                        {
+                           "url": "http://www.opennet.ru/docs/RUS/lkmpg26",
+                           "title": "The Linux Kernel Module Programming Guide",
+                           "author": "Peter Jay Salzman, Michael Burian, Ori Pomerantz"
+                        }
+                     ],
                      "subsections": []
                   }
                ]
@@ -29575,6 +29635,24 @@
                         {
                            "url": "http://hukai.me/android-training-course-in-chinese/index.html",
                            "title": "Google Android官方培训课程中文版"
+                        },
+                        {
+                           "url": "https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html",
+                           "title": "Google Material Design 正體中文版",
+                           "author": "Tillonter, 陳世能, Sean Chen, et al."
+                        },
+                        {
+                           "url": "https://github.com/1sters/material_design_zh",
+                           "title": "Google Material Design 中文协同翻译",
+                           "author": "1sters 极客实验室, 四勾 4J, IceskYsl, et al."
+                        },
+                        {
+                           "url": "http://wiki.jikexueyuan.com/project/material-design/",
+                           "title": "Material Design 中文版"
+                        },
+                        {
+                           "url": "https://github.com/FX-Max/Point-of-Android",
+                           "title": "Point-of-Android"
                         }
                      ],
                      "subsections": []
@@ -32737,7 +32815,7 @@
                         },
                         {
                            "url": "https://podcastinit.com",
-                           "title": "Podcast.",
+                           "title": "Podcast.__init__",
                            "author": "Tobias Macey",
                            "notes": [
                               "podcast"
@@ -48189,6 +48267,14 @@
                      "section": "Lua",
                      "entries": [
                         {
+                           "url": "https://youtube.com/playlist?list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt",
+                           "title": "Curso de Programação Lua",
+                           "author": "Techiesse",
+                           "notes": [
+                              "YouTube"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA",
                            "title": "Introdução a Programação com Lua",
                            "author": "Alfred R. Baudisch",
@@ -51557,6 +51643,14 @@
                                  "url": "https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet",
                                  "title": "React Cheatsheet",
                                  "author": "Codecademy",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
+                                 "url": "https://upmostly.com/ultimate-reactjs-cheat-sheet",
+                                 "title": "Ultimate React.js Cheat Sheet",
+                                 "author": "Upmostly.com",
                                  "notes": [
                                     "HTML"
                                  ]
