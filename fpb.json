@@ -11804,7 +11804,7 @@
                            ]
                         },
                         {
-                           "url": "https://fbb-git.gitlab.io/cppannotations/",
+                           "url": "https://fbb-git.gitlab.io/cppannotations",
                            "title": "C++ Annotations",
                            "author": "Frank B. Brokken",
                            "notes": [
@@ -11815,6 +11815,14 @@
                            "url": "https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md",
                            "title": "C++ Core Guidelines",
                            "author": ""
+                        },
+                        {
+                           "url": "https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf",
+                           "title": "C++ For Programmers",
+                           "author": "JT Kalnay",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf",
@@ -37992,6 +38000,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZTUjMcg4WOUYMxQZDpRnBt",
                            "title": "Mastering MongoDB",
                            "author": "Foyzul Karim"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLgH5QX0i9K3p4ckbNCy71LRr_dG0AWGw9",
+                           "title": "MongoDB Bangla tutorial series",
+                           "author": "Anisul Islam"
                         }
                      ],
                      "subsections": []
@@ -39241,6 +39254,11 @@
                            "notes": [
                               "Udacity"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=8jLOx1hD3_o",
+                           "title": "C++ Programming Course - Beginner to Advanced",
+                           "author": "FreeCodeCamp"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK",
@@ -43164,11 +43182,27 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+                           "title": "TypeScript Course for Beginners- Learn TypeScript from Scratch!",
+                           "author": "Academind",
+                           "notes": [
+                              "Youtube"
+                           ]
+                        },
+                        {
                            "url": "https://www.udemy.com/typescript-fast-crash-course/",
                            "title": "TypeScript Fast Crash Course",
                            "author": "Edwin Diaz, Coding Faculty Solutions",
                            "notes": [
                               "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=d56mG7DezGs",
+                           "title": "TypeScript Tutorial for Beginners - 2022",
+                           "author": "Programming with Mosh",
+                           "notes": [
+                              "Youtube"
                            ]
                         }
                      ],
@@ -46305,6 +46339,16 @@
                            "url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK",
                            "title": "Statistics And Probability",
                            "author": "Gajendra Purohit"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Mongo DB",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa",
+                           "title": "Mongo DB full course for beginners"
                         }
                      ],
                      "subsections": []
@@ -54456,6 +54500,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "GraphQL",
+                     "entries": [
+                        {
+                           "url": "[https://devhints.io/go](https://devhints.io/graphql)",
+                           "title": "GraphQL Cheatsheet",
+                           "author": "devhints, Rico Santa Cruz",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "HTML and CSS",
                      "entries": [
                         {
@@ -55153,6 +55211,19 @@
                                  ]
                               }
                            ]
+                        },
+                        {
+                           "section": "Flask",
+                           "entries": [
+                              {
+                                 "url": "https://www.codewithharry.com/blogpost/flask-cheatsheet/",
+                                 "title": "Flask Cheatsheet",
+                                 "author": "Code with Harry",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              }
+                           ]
                         }
                      ]
                   },
@@ -55363,6 +55434,20 @@
                               "PDF"
                            ],
                            "accessNotes": ":card_file_box: archived"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Webpack",
+                     "entries": [
+                        {
+                           "url": "https://devhints.io/webpack",
+                           "title": "Webpack cheatsheet",
+                           "author": "devhints, Rico Santa Cruz",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -57824,6 +57909,10 @@
                         {
                            "url": "http://wcipeg.com",
                            "title": "PEG Judge"
+                        },
+                        {
+                           "url": "https://www.pepcoding.com/resources",
+                           "title": "Pep Coding"
                         },
                         {
                            "url": "http://poj.org",
