@@ -12252,6 +12252,14 @@
                         {
                            "url": "http://learncfinaweek.com",
                            "title": "Learn CF in a Week"
+                        },
+                        {
+                           "url": "https://riptutorial.com/Download/coldfusion.pdf",
+                           "title": "Learning coldfusion",
+                           "author": "Compiled from StackOverflow documentation",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -20295,29 +20303,10 @@
                            ]
                         },
                         {
-                           "url": "https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html",
+                           "url": "https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html",
                            "title": "The Swift Programming Language",
                            "notes": [
                               "HTML"
-                           ],
-                           "otherLinks": [
-                              {
-                                 "title": "iBook",
-                                 "url": "https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11"
-                              }
-                           ]
-                        },
-                        {
-                           "url": "https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html",
-                           "title": "Using Swift with Cocoa and Objective-C",
-                           "notes": [
-                              "HTML"
-                           ],
-                           "otherLinks": [
-                              {
-                                 "title": "iBook",
-                                 "url": "https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11"
-                              }
                            ]
                         }
                      ],
@@ -28419,6 +28408,14 @@
                      "section": "Search Engines",
                      "entries": [
                         {
+                           "url": "https://www.pistocop.dev/posts/es_engineer_exam_notes/",
+                           "title": "Elasticsearch Certified Engineer notes ",
+                           "author": "",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html",
                            "title": "Elasticsearch: The Definitive Guide",
                            "notes": [],
@@ -29466,6 +29463,11 @@
                            "url": "https://medium.com/odds-team/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-go-%E0%B9%81%E0%B8%9A%E0%B8%9A-step-by-step-%E0%B8%88%E0%B8%B2%E0%B8%81-course-pre-ultimate-go-by-p-yod-%E0%B8%95%E0%B8%AD%E0%B8%99-1-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0-d9ac7913e9a4",
                            "title": "ภาษา Go ตอน 1 ติดตั้ง และ Run Hello World",
                            "author": "Chaiyarin Niamsuwan"
+                        },
+                        {
+                           "url": "https://go-tour-th.appspot.com/tour/list",
+                           "title": "A Tour of Go",
+                           "author": "พลัฏฐ์ อัญชลีชไมกร"
                         }
                      ],
                      "subsections": []
@@ -40182,6 +40184,11 @@
                                  "author": "PopSQL"
                               },
                               {
+                                 "url": "https://www.programiz.com/sql",
+                                 "title": "Learn SQL: SQL Tutorial for Beginners",
+                                 "author": "Programiz"
+                              },
+                              {
                                  "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
                                  "title": "MySQL Tutorial for Beginners [Full Course]",
                                  "author": "Moshfegh Hamedani",
@@ -42923,6 +42930,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLrk5tgtnMN6TYBW0-U4YhIRyYEVpqVEnJ",
+                           "title": "Data Structures And Algorithms In Python",
+                           "author": "Coding Ninjas"
+                        },
+                        {
                            "url": "https://practice.geeksforgeeks.org/courses/fork-python",
                            "title": "Fork Python",
                            "notes": [
@@ -42983,6 +42995,14 @@
                         {
                            "url": "https://www.learnpython.org",
                            "title": "Learn Python - Free Interactive Python Tutorial"
+                        },
+                        {
+                           "url": "https://scrimba.com/learn/python",
+                           "title": "Learn Python For Free",
+                           "author": "Olof Paulson",
+                           "notes": [
+                              "Scrimba"
+                           ]
                         },
                         {
                            "url": "https://www.udemy.com/learn-python-from-scratch-w/",
@@ -43633,6 +43653,21 @@
                            "notes": [
                               "YouTube"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLYORQHvGMg-WS5r8UjaWnnAeCHTH3wRaF",
+                           "title": "Solidity 101",
+                           "author": "Secureum"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLYORQHvGMg-V9w6UZ_YOQYjG5NPqnRwdc",
+                           "title": "Solidity 201",
+                           "author": "Secureum"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea",
+                           "title": "Solidity Tutorial",
+                           "author": "EatTheBlocks"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=ipwxYa-F1uY",
@@ -44601,6 +44636,14 @@
                            "url": "https://codigofacilito.com/cursos/javascript",
                            "title": "Curso de JavaScript Gratis",
                            "author": "Código Facilito"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_",
+                           "title": "Curso de PHP/MySQL",
+                           "author": "Juan Díaz",
+                           "notes": [
+                              "Píldoras informáticas"
+                           ]
                         },
                         {
                            "url": "https://edutin.com/curso-de-python-4276",
@@ -46167,6 +46210,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe",
                            "title": "Artificial Intelligence Lectures Hindi",
                            "author": "Easy Engineering Classes"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA",
+                           "title": "Playlist to Artificial Intelligence",
+                           "author": "Perfect Computer Engineer"
                         }
                      ],
                      "subsections": []
@@ -46242,6 +46290,11 @@
                            "url": "https://www.youtube.com/watch?v=ZSPZob_1TOk",
                            "title": "C Language Tutorial For Beginners In Hindi (With Notes)",
                            "author": "CodeWithHarry"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLmRclvVt5DtksgReOH3s7R1_cb1QA8vrb",
+                           "title": "C Language Tutorial in Hindi",
+                           "author": "codeitup"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
@@ -46596,6 +46649,11 @@
                            "url": "https://youtube.com/playlist?list=PLMkkZSS5OjPIwDyHHKVex6zr008U1-sWM",
                            "title": "Flutter Tutorial For Beginners in Hindi",
                            "author": "Geeks Rank"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLz7ymP4HzwSH3vAnhDWLkO2TLbwGeigl7",
+                           "title": "Flutter Widgets in Hindi",
+                           "author": "Ahirlog"
                         }
                      ],
                      "subsections": []
@@ -47046,6 +47104,11 @@
                            "author": "WsCube Tech"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLSntPnamABVEi_K1gxbOEwXVz09pY9qb8",
+                           "title": "Linux Tutorial For Beginners in Hindi",
+                           "author": "Ankit Tiwari"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=_tCY-c-sPZc",
                            "title": "Linux Tutorial For Beginners in Hindi",
                            "author": "CodeWithHarry"
@@ -47105,6 +47168,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg",
                            "title": "Discrete Mathematics (Full Course) By Dr.Gajendra Purohit",
                            "author": "Gajendra Purohit"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLL8qj6F8dGlTX359q-PBBUFw3BrBvAxq3",
+                           "title": "Discrete Mathematics Tutorials In Hindi | B.TECH- B.E.-UGC NET- GATE- LECTURES In Hindi",
+                           "author": "Deepak Garg"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK",
@@ -52379,6 +52447,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Sistemas Embarcados",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG",
+                           "title": "Fundamentos de Sistemas Embarcados",
+                           "author": "Renato Sampaio"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Swift",
                      "entries": [
                         {
@@ -55092,6 +55171,14 @@
                      "section": "Clojure",
                      "entries": [
                         {
+                           "url": "https://www.programming-idioms.org/cheatsheet/Clojure",
+                           "title": "Clojure",
+                           "author": "Programming-Idioms",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "http://clojure.org/cheatsheet",
                            "title": "Clojure Cheatsheet",
                            "notes": [
@@ -56036,6 +56123,20 @@
                            "author": "Michael Treat's Quick Cheat Sheet",
                            "notes": [
                               "GitHub Gist"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Octave",
+                     "entries": [
+                        {
+                           "url": "https://www.lehman.edu/academics/cmacs/documents/refcard-a4.pdf",
+                           "title": "Octave Cheat Sheet",
+                           "author": "John W. Eaton",
+                           "notes": [
+                              "PDF"
                            ]
                         }
                      ],
