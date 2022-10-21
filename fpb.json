@@ -18345,6 +18345,14 @@
                            ]
                         },
                         {
+                           "url": "https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf",
+                           "title": "Python Programming Exercises, Gently Explained",
+                           "author": "Al Sweigart",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.tutorialspoint.com/python/",
                            "title": "Python Tutorial",
                            "author": "Tutorials Point",
@@ -18448,6 +18456,15 @@
                               "PDF, EPUB, Kindle"
                            ],
                            "accessNotes": "email address requested"
+                        },
+                        {
+                           "url": "https://inventwithpython.com/recursion/",
+                           "title": "The Recursive Book of Recursion",
+                           "author": "Al Swigart",
+                           "notes": [
+                              "HTML",
+                              "3.x"
+                           ]
                         },
                         {
                            "url": "https://web.archive.org/web/20200626001242/http://effbot.org/librarybook/",
@@ -40566,6 +40583,16 @@
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsgnv1SN76ILtD3TnVtXpX1hmwjyY9OuT",
+                           "title": "CHEF Tutorial",
+                           "author": "Online Tutorials"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLKK5zTDXqzFM53J6-rikDrqbbY0Pu-9SP",
+                           "title": "Learning Chef",
+                           "author": "Nathen Harvey"
                         }
                      ],
                      "subsections": []
