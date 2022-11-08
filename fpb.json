@@ -5699,6 +5699,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Data Structure and Algorithms",
+                     "entries": [
+                        {
+                           "url": "http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf",
+                           "title": "Data Structure with C | Hindi",
+                           "author": "Kuldeep Chand",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Java",
                      "entries": [
                         {
@@ -39002,6 +39016,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa",
                            "title": "Java Bangla Tutorials | CORE Java | Complete OOP",
                            "author": "Anisul Islam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLdl6zXgLsy3xCae1uL6rJ8Ay9sIiyBy5I",
+                           "title": "Java Basic Syntax Bangla Tutorial",
+                           "author": "Bangla Coding Tutor"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLysy6TYSMvpJmMN0ElbC936RmmFustDiy",
