@@ -21874,6 +21874,22 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://samagra.kite.kerala.gov.in/files/samagra-resource/uploads/tbookscmq/Class_XII/MAL_MED/Computer%20Science%20Part%201%20.pdf",
+                           "title": "XII_Computer_Science_Part_I",
+                           "author": "SCERT",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://samagra.kite.kerala.gov.in/files/samagra-resource/uploads/tbookscmq/Class_XII/MAL_MED/Computer%20Science%20Part%202.pdf",
+                           "title": "XII_Computer_Science_Part_II",
+                           "author": "SCERT",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -34441,6 +34457,14 @@
                      "section": "Data Science",
                      "entries": [
                         {
+                           "url": "https://www.dataengineeringpodcast.com",
+                           "title": "Data Engineering Podcast",
+                           "author": "Tobias Macey",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "https://www.datafuturology.com/podcasts",
                            "title": "Data Futurology - Leadership And Strategy in Artificial Intelligence, Machine Learning, Data Science",
                            "author": "Felipe Flores",
@@ -34547,6 +34571,36 @@
                            "url": "https://towardsdatascience.com/podcast/home",
                            "title": "Towards Data Science",
                            "author": "The TDS team",
+                           "notes": [
+                              "podcast"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "DevOps",
+                     "entries": [
+                        {
+                           "url": "https://topenddevs.com/podcasts/adventures-in-devops",
+                           "title": "Adventures in DevOps",
+                           "author": "Jillian Rowe, Jonathan Hall, Will Button",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://www.arresteddevops.com",
+                           "title": "Arrested DevOps",
+                           "author": "Joe Laha, Bridget Kromhout, Matty Stratton, Trevor Hess, Jessica Kerr",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "http://devopscafe.org",
+                           "title": "DevOps Cafe",
+                           "author": "John Willis, Damon Edwards",
                            "notes": [
                               "podcast"
                            ]
@@ -34880,6 +34934,14 @@
                   {
                      "section": "Java",
                      "entries": [
+                        {
+                           "url": "https://airhacks.fm",
+                           "title": "airhacks.fm podcast",
+                           "author": "Adam Bien",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2",
                            "title": "Building a Java & Spring Boot app: Kid-Bank development",
@@ -36384,9 +36446,17 @@
                      "section": "Swift",
                      "entries": [
                         {
-                           "url": "https://www.swiftbysundell.com/podcast/",
+                           "url": "https://www.swiftbysundell.com/podcast",
                            "title": "Swift by Sundell",
                            "author": "John Sundell",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+                           "title": "Swift over Coffee",
+                           "author": "Paul Hudson, Mikaela Caron",
                            "notes": [
                               "podcast"
                            ]
@@ -36395,6 +36465,14 @@
                            "url": "https://swiftunwrapped.github.io",
                            "title": "Swift Unwrapped",
                            "author": "Jesse Squires, JP Simard",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://www.swiftcommunitypodcast.org",
+                           "title": "The Swift Community Podcast",
+                           "author": "Kate Castellano, Paul Hudson, Chris Lattner, Bas Broek",
                            "notes": [
                               "podcast"
                            ]
@@ -40528,6 +40606,16 @@
                                  "author": "Anisul Islam"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLCTSm-A1QfHqRdVcdKx6Q7vaxW3vvsAug",
+                                 "title": "Bootstrap 5 Bangla Tutorial",
+                                 "author": "Amar Course"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowASvSK4qx9Nz9MNTJC9Up67",
+                                 "title": "Bootstrap 5 Essential Training Bangla",
+                                 "author": "Procoder BD"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLm64fbD5OnxuWrqDWyObVkH_Y5R6Wg1wg",
                                  "title": "Bootstrap Bangla Tutorial With Projects",
                                  "author": "Moshiur"
@@ -40768,9 +40856,19 @@
                            "section": "Next.js",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLwMeE9AWeV59vbQSIArd0-sNB9FPxlWSp",
+                                 "title": "Next Js Bangla Tutorial Series",
+                                 "author": "dSkill"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLQvUYGXiwrskS_C3MOeW0rOVB5Ny2MCR2",
                                  "title": "next js bangla(বাংলা) tutorial",
                                  "author": "Faazle Rabbi"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLkmCJMhveta1PihBgW4MpYxFlyzdSjlNC",
+                                 "title": "Next js tutorial in bangla",
+                                 "author": "Sabeek Bin Sayeed"
                               }
                            ]
                         },
@@ -42025,6 +42123,16 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLQkwcJG4YTCRF8XiCRESq1IFFW8COlxYJ",
+                           "title": "MVVM NewsApp, Retrofit, Room, Coroutines, Navigation Components",
+                           "author": "Philipp Lackner"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW",
+                           "title": "MVVM Spotify Clone",
+                           "author": "Philipp Lackner"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLrnPJCHvNZuCfAe7QK2BoMPkv2TGM_b0E",
                            "title": "MVVM To-Do List App with Flow and Architecture Components",
                            "author": "Florian Walther",
@@ -42651,6 +42759,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM",
                            "title": "C++ Tutorial",
                            "author": "The Bad Tutorials"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLk6CEY9XxSIAQ2vE_Jb4Dbmum7UfQrXgt",
+                           "title": "C++ Tutorial For Beginners",
+                           "author": "CppNuts"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=vLnPwxZdW4Y",
@@ -44700,6 +44813,11 @@
                         {
                            "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML",
                            "title": "Structuring the web with HTML"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=lCxcTsOHrjo",
+                           "title": "Tailwind CSS Full Course for Beginners",
+                           "author": "Dave Gray"
                         },
                         {
                            "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw",
@@ -47139,6 +47257,11 @@
                            "title": "Codesdope"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB",
+                           "title": "Complete Python Playlist",
+                           "author": "Krish Naik"
+                        },
+                        {
                            "url": "https://cs50.harvard.edu/python/",
                            "title": "CS50's Introduction to Programming Using Python",
                            "author": "David J. Malan",
@@ -48889,7 +49012,7 @@
                            "title": "Cómo implantar grupos de mejora de procesos"
                         },
                         {
-                           "url": "https://ocw.unican.es/course/view.php?id=23",
+                           "url": "https://ocw.unican.es/course/view.php?id=206",
                            "title": "Gestión de proyectos software (2015)"
                         },
                         {
@@ -50911,6 +51034,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Artificial Intelligence",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6",
+                           "title": "Generative AI Series - Showcasing Generative AI By Building Projects",
+                           "author": "CodeWithHarry"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Assembly",
                      "entries": [
                         {
@@ -52517,6 +52651,17 @@
                            "url": "https://www.youtube.com/playlist?list=PLkW9FMxqUvyZaSQNQslneeODER3bJCb2K",
                            "title": "Networking Basics",
                            "author": "Bitten Tech"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Open Source",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9",
+                           "title": "Open Source BootCamp - Master Open Source Contributions",
+                           "author": "Piyush Garg"
                         }
                      ],
                      "subsections": []
@@ -54506,11 +54651,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLiuHSY2x882a-sLbdqZTtraO3cl0Clwg0",
                            "title": "Belajar Typescript OOP Bahasa Indonesia",
                            "author": "Imam Farisi"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo",
-                           "title": "Belajar TypeScript Untuk Pemula",
-                           "author": "Eko Kurniawan Khannedy, Programmer Zaman Now"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y",
@@ -61450,6 +61590,17 @@
                "index": {},
                "sections": [
                   {
+                     "section": "Android",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOe8IWZnA515lGPKaWx5WNOE",
+                           "title": "The complete Android Application Development Course in Hindi/Urdu | Android Development for Beginners in Hindi - Urdu | Android tutorial in Urdu",
+                           "author": "Fahad Hussain"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "C++",
                      "entries": [
                         {
@@ -61488,6 +61639,11 @@
                            "url": "https://youtube.com/playlist?list=PLUyYwyJA_WfTr3YWWJ41_V7TrRZoq6cBT",
                            "title": "HTML5 & CSS3 Tutorials In Urdu and Hindi",
                            "author": "ProgramInUrdu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLU4yvac0MJbJrUWqGQbtFxOYR3gRvXxMs",
+                           "title": "HTML5 & CSS3 Tutorials in Urdu/Hindi",
+                           "author": "OnlineUstaad"
                         }
                      ],
                      "subsections": []
@@ -66107,6 +66263,10 @@
                            "title": "Coding Minutes"
                         },
                         {
+                           "url": "https://godbolt.org",
+                           "title": "Compiler Explorer"
+                        },
+                        {
                            "url": "https://www.interviewbit.com/online-cpp-compiler/",
                            "title": "InterviewBit"
                         },
@@ -67262,6 +67422,10 @@
                            "title": "500 Data structures and algorithms interview questions and their solutions in C++"
                         },
                         {
+                           "url": "https://abekus.com",
+                           "title": "Abekus | Free Practice Questions with Solutions"
+                        },
+                        {
                            "url": "http://adventofcode.com",
                            "title": "Advent Of Code"
                         },
@@ -67363,6 +67527,10 @@
                         {
                            "url": "http://acm.hdu.edu.cn",
                            "title": "HDU Online Judge"
+                        },
+                        {
+                           "url": "https://www.indiabix.com",
+                           "title": "IndiaBix"
                         },
                         {
                            "url": "https://github.com/donnemartin/interactive-coding-challenges",
