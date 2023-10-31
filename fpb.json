@@ -14645,6 +14645,14 @@
                            "title": "Google's Java Style Guide"
                         },
                         {
+                           "url": "https://books.goalkicker.com/HibernateBook",
+                           "title": "Hibernate Notes for Professionals",
+                           "author": "Compiled from StackOverflow Documentation",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://introcs.cs.princeton.edu/java/cs/",
                            "title": "Introduction to Computer Science \"booksite\"",
                            "author": "Robert Sedgewick, Kevin Wayne",
@@ -16609,6 +16617,14 @@
                            "title": "Linux Newbie Administrator Guide"
                         },
                         {
+                           "url": "https://books.goalkicker.com/LinuxBook",
+                           "title": "Linux Notes for Professionals",
+                           "author": "Compiled from StackOverflow Documentation",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.syncfusion.com/resources/techportal/ebooks/linux",
                            "title": "Linux Succinctly, Syncfusion",
                            "notes": [
@@ -17258,6 +17274,14 @@
                         {
                            "url": "http://weblogs.asp.net/zeeshanhirani/my-christmas-present-to-the-entity-framework-community",
                            "title": "Entity Framework"
+                        },
+                        {
+                           "url": "https://books.goalkicker.com/EntityFrameworkBook",
+                           "title": "Entity Framework Notes for Professionals",
+                           "author": "Compiled from StackOverflow Documentation",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://www.programming-books.io/essential/netframework/",
@@ -29315,13 +29339,6 @@
                            ]
                         },
                         {
-                           "url": "http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf",
-                           "title": "Principles of Computer System Design",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://press.rebus.community/programmingfundamentals/",
                            "title": "Programming Fundamentals",
                            "author": "Kenneth Leroy Busbee, Dave Braunschweig"
@@ -41055,6 +41072,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLgyuGbgggWA3ORqemnq9adIzvNhSXjJTr",
                            "title": "Kotlin For Android - Bangla",
                            "author": "Touhid Apps!"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLYSlHgBmbWcurc9BBThq0WdcESbpEymF1",
+                           "title": "Kotlin Programming Language Basics in Bangla",
+                           "author": "Bonny Ahmad"
                         }
                      ],
                      "subsections": []
@@ -42175,11 +42197,6 @@
                            ]
                         },
                         {
-                           "url": "https://www.learnhowtoprogram.com/android",
-                           "title": "Learn how to program: Android",
-                           "author": "Epicodus Inc."
-                        },
-                        {
                            "url": "https://material.io/guidelines/",
                            "title": "Material design"
                         },
@@ -42762,11 +42779,6 @@
                            "url": "https://www.codecademy.com/learn/learn-c-sharp",
                            "title": "Learn C#",
                            "author": "Codecademy"
-                        },
-                        {
-                           "url": "https://www.learnhowtoprogram.com/c-and-net",
-                           "title": "Learn how to program: C# and .NET",
-                           "author": "Epicodus Inc."
                         }
                      ],
                      "subsections": []
@@ -45988,14 +46000,6 @@
                                  "author": "The Net Ninja",
                                  "notes": [
                                     "with practical"
-                                 ]
-                              },
-                              {
-                                 "url": "https://www.coursera.org/specializations/full-stack-react",
-                                 "title": "Full-Stack Web Development with React Specialization",
-                                 "author": "Jogesh K. Muppala",
-                                 "notes": [
-                                    "Coursera"
                                  ]
                               },
                               {
@@ -50131,11 +50135,6 @@
                      "section": "Git",
                      "entries": [
                         {
-                           "url": "https://sokanacademy.com/courses/git",
-                           "title": "آموزش گیت - سکان‌آکادمی",
-                           "author": "Behzad Moradi"
-                        },
-                        {
                            "url": "https://faradars.org/courses/fvgit9609-git-github-gitlab",
                            "title": "آموزش گیت، گیت هاب و گیت لب - فرادرس",
                            "author": "Jadi Mirmirani",
@@ -50167,16 +50166,6 @@
                            "url": "https://javacup.ir/javacup-training-videos",
                            "title": "آموزش  برنامه‌نویسی جاوا",
                            "author": "Java Cup"
-                        },
-                        {
-                           "url": "https://sokanacademy.com/courses/java",
-                           "title": "آموزش جاوا - سکان‌آکادمی",
-                           "author": "Behzad Moradi"
-                        },
-                        {
-                           "url": "https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1",
-                           "title": "آموزش جاوا از صفر",
-                           "author": "Mohammad Ghari"
                         },
                         {
                            "url": "https://b2n.ir/j02632",
@@ -50265,11 +50254,6 @@
                            "author": "Morteza Bashsiz"
                         },
                         {
-                           "url": "https://sokanacademy.com/courses/linux",
-                           "title": "آموزش لینوکس - سکان‌آکادمی",
-                           "author": "Behzad Moradi"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd",
                            "title": "آموزش لینوکس برای آدم های شاد",
                            "author": "Jadi Mirmirani"
@@ -50316,11 +50300,6 @@
                            "url": "https://sokanacademy.com/courses/php/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-PHP",
                            "title": "آموزش پی‌اچ‌پی - سکان آکادمی",
                            "author": "Behzad Moradi"
-                        },
-                        {
-                           "url": "https://sokanacademy.com/courses/php-oop",
-                           "title": "آموزش OOP در PHP - سکان‌آکادمی",
-                           "author": "Behzad Moradi"
                         }
                      ],
                      "subsections": [
@@ -50337,11 +50316,6 @@
                            "section": "Laravel",
                            "entries": [
                               {
-                                 "url": "https://sokanacademy.com/courses/laravelexcel",
-                                 "title": "آموزش کاربردی پکیج Laravel Excel - سکان‌آکادمی",
-                                 "author": "Sokan Academy"
-                              },
-                              {
                                  "url": "https://roocket.ir/series/learn-laravel",
                                  "title": "آموزش لاراول",
                                  "author": "Hesam Mousavi"
@@ -50350,11 +50324,6 @@
                                  "url": "http://www.alefyar.com/laravel-tutorial",
                                  "title": "آموزش لاراول",
                                  "author": "Abolfazl Talebi"
-                              },
-                              {
-                                 "url": "https://sokanacademy.com/courses/oauth-passport",
-                                 "title": "آموزش OAuth و Laravel Passport - سکان‌آکادمی",
-                                 "author": "Sokan Academy"
                               }
                            ]
                         },
@@ -50373,11 +50342,6 @@
                   {
                      "section": "Python",
                      "entries": [
-                        {
-                           "url": "https://sokanacademy.com/courses/python",
-                           "title": "آموزش پایتون - سکان‌آکادمی",
-                           "author": "Narges Asadi"
-                        },
                         {
                            "url": "https://toplearn.com/courses/2150/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-(-python-)",
                            "title": "دوره آموزش رایگان زبان پایتون ( Python ) از مقدماتی تا پیشرفته",
@@ -52086,6 +52050,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
                            "title": "Web Development Tutorials for Beginners in Hindi: HTML, CSS, JavaScript and more",
                            "author": "CodeWithHarry"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp2jmYb2TQGYgBYp0xGwj9V1",
+                           "title": "Website Development Course in Hindi 2022",
+                           "author": "Thapa Technical"
                         }
                      ],
                      "subsections": [
@@ -66479,25 +66448,6 @@
             },
             {
                "language": {
-                  "code": "pt-BR",
-                  "name": "Portuguese (Brazil)"
-               },
-               "index": {},
-               "sections": [
-                  {
-                     "section": "Python",
-                     "entries": [
-                        {
-                           "url": "https://pythonacademy.com.br/sliders/como-instalar-o-kivy",
-                           "title": "Guia de Instalação do Kivy"
-                        }
-                     ],
-                     "subsections": []
-                  }
-               ]
-            },
-            {
-               "language": {
                   "code": "ru",
                   "name": "Russian"
                },
@@ -67712,6 +67662,11 @@
                            "title": "Kattis"
                         },
                         {
+                           "url": "https://takeuforward.org/interview-sheets/strivers-79-last-moment-dsa-sheet-ace-interviews",
+                           "title": "Last Moment DSA Sheet(79) – Ace Interviews",
+                           "author": "Striver"
+                        },
+                        {
                            "url": "https://leetcode.com",
                            "title": "LeetCode"
                         },
@@ -67742,6 +67697,11 @@
                         {
                            "url": "https://www.techgig.com",
                            "title": "Techgig"
+                        },
+                        {
+                           "url": "https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/",
+                           "title": "Top Coding Interview Problems",
+                           "author": "Striver"
                         },
                         {
                            "url": "https://www.topcoder.com",
