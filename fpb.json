@@ -68033,6 +68033,11 @@
                      "section": "C",
                      "entries": [
                         {
+                           "url": "https://programiz.pro/ide/c",
+                           "title": "C Playground",
+                           "author": "Programiz PRO"
+                        },
+                        {
                            "url": "https://www.interviewbit.com/online-c-compiler/",
                            "title": "InterviewBit - Online C Compiler IDE"
                         },
@@ -68042,7 +68047,8 @@
                         },
                         {
                            "url": "https://www.programiz.com/c-programming/online-compiler/",
-                           "title": "Programiz - Online C Compiler"
+                           "title": "Online C Compiler",
+                           "author": "Programiz"
                         },
                         {
                            "url": "https://code.sololearn.com/c",
@@ -68633,6 +68639,11 @@
                            "title": "Online Python"
                         },
                         {
+                           "url": "https://www.programiz.com/python-programming/online-compiler/",
+                           "title": "Online Python Compiler",
+                           "author": "Programiz"
+                        },
+                        {
                            "url": "https://www.tutorialspoint.com/online_python_compiler.php",
                            "title": "Online Python Compiler",
                            "author": "Tutorialspoint"
@@ -68642,16 +68653,17 @@
                            "title": "OnlineGDB"
                         },
                         {
-                           "url": "https://www.programiz.com/python-programming/online-compiler/",
-                           "title": "Programiz.com"
-                        },
-                        {
                            "url": "https://pynative.com/online-python-code-editor-to-execute-python-code/",
                            "title": "Pynative.com"
                         },
                         {
                            "url": "https://www.codinguru.online/compiler/python",
                            "title": "Python Online Compilers"
+                        },
+                        {
+                           "url": "https://programiz.pro/ide/python",
+                           "title": "Python Playground",
+                           "author": "Programiz PRO"
                         },
                         {
                            "url": "https://trinket.io/python",
