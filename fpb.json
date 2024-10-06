@@ -21415,6 +21415,13 @@
                            "author": "Axel Rauschmayer"
                         },
                         {
+                           "url": "https://www.totaltypescript.com/books/total-typescript-essentials",
+                           "title": "Total TypeScript: Essentials",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://accelerated.amimetic.co.uk",
                            "title": "TypeScript Accelerated",
                            "author": "James Porter"
@@ -43391,6 +43398,11 @@
                            "url": "https://www.alchemy.com/university/courses/ethereum",
                            "title": "Ethereum Developer Bootcamp",
                            "author": "Alchemy University"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY",
+                           "title": "Free Blockchain Development Courses",
+                           "author": "Dapp University"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLlp912GlUiC1xPnwVmKgIiuMERetMwre9",
