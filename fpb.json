@@ -5907,17 +5907,17 @@
                      "subsections": []
                   },
                   {
-                     "section": "Php",
+                     "section": "PHP",
                      "entries": [
                         {
-                           "url": "https://www.learnhindituts.com/php",
-                           "title": "Php | Hindi",
-                           "author": "LearnHindiTuts.com"
+                           "url": "http://tutorialsroot.com/php/index.html",
+                           "title": "PHP In Hindi Tutorial",
+                           "author": "TutorialsRoot.com"
                         },
                         {
-                           "url": "http://tutorialsroot.com/php/index.html",
-                           "title": "Php Hindi Tutorial | Hindi",
-                           "author": "TutorialsRoot.com"
+                           "url": "https://www.learnhindituts.com/php",
+                           "title": "PHP Tutorials In Hindi",
+                           "author": "LearnHindiTuts.com"
                         }
                      ],
                      "subsections": []
@@ -6900,14 +6900,6 @@
                            ]
                         },
                         {
-                           "url": "https://gilacoding.com/upload/file/menjelajahyiiframework.pdf",
-                           "title": "Menjelajahi Yii Framework",
-                           "author": "Sabit Huraira",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://gilacoding.com/upload/file/Panduan%20Lengkap%20PHP%20Ajax%20jQuery.pdf",
                            "title": "Panduan Lengkap PHP AJAX jQuery",
                            "author": "Desrizal",
@@ -7026,6 +7018,27 @@
                                  "url": "https://www.duniailkom.com/tutorial-belajar-framework-laravel/",
                                  "title": "Tutorial Belajar Framework Laravel 10",
                                  "author": "Duniailkom"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Yii",
+                           "entries": [
+                              {
+                                 "url": "https://gilacoding.com/upload/file/menjelajahyiiframework.pdf",
+                                 "title": "Menjelajahi Yii Framework",
+                                 "author": "Sabit Huraira",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.yiiframework.com/doc/download/yii-guide-2.0-id.pdf",
+                                 "title": "Panduan Definitif Untuk Yii 2.0",
+                                 "author": "Yii Software",
+                                 "notes": [
+                                    "PDF"
+                                 ]
                               }
                            ]
                         }
@@ -10815,7 +10828,8 @@
                            "title": "Ada for the C++ or Java Developer",
                            "author": "Quentin Ochem",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -11065,7 +11079,8 @@
                            "title": "Open softwear - Fashionable prototyping and wearable computing using the Arduino",
                            "author": "Tony Olsson, David Gaetano, Jonas Odhner, Samson Wiklund",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-ND"
                            ]
                         }
                      ],
@@ -11321,7 +11336,10 @@
                               },
                               {
                                  "url": "http://chortle.ccsu.edu/AssemblyTutorial/index.html",
-                                 "title": "Programmed Introduction to MIPS Assembly Language"
+                                 "title": "Programmed Introduction to MIPS Assembly Language",
+                                 "notes": [
+                                    "CC BY-NC"
+                                 ]
                               },
                               {
                                  "url": "http://www.atariarchives.org/2bml/",
@@ -15074,7 +15092,8 @@
                            "title": "Book of Modern Frontend Tooling",
                            "author": "Various",
                            "notes": [
-                              "HTML"
+                              "HTML",
+                              "CC BY-NC"
                            ]
                         },
                         {
@@ -16937,6 +16956,10 @@
                                  "title": "An Introduction to Programming in Emacs Lisp"
                               },
                               {
+                                 "url": "https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Programming.html",
+                                 "title": "Elisp Programming"
+                              },
+                              {
                                  "url": "http://www.gnu.org/software/emacs/manual/elisp.html",
                                  "title": "GNU Emacs Lisp Reference Manual"
                               }
@@ -18164,6 +18187,19 @@
                               {
                                  "url": "https://symfony.com/doc/4.4/index.html",
                                  "title": "The Symfony Book 4.4.x"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Yii",
+                           "entries": [
+                              {
+                                 "url": "https://www.yiiframework.com/doc/download/yii-guide-2.0-en.pdf",
+                                 "title": "The Definitive Guide to Yii 2.0",
+                                 "author": "Yii Software",
+                                 "notes": [
+                                    "PDF"
+                                 ]
                               }
                            ]
                         },
@@ -27900,7 +27936,8 @@
                            "title": "Introduction to Embedded Systems, Second Edition",
                            "author": "Edward Ashford Lee, Sanjit Arunkumar Seshia",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-ND"
                            ]
                         },
                         {
@@ -28192,6 +28229,14 @@
                            "author": "Free Software Foundation Inc.",
                            "notes": [
                               "HTML, PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html",
+                           "title": "Learn Neovim",
+                           "author": "Ofir Gal",
+                           "notes": [
+                              "online, PDF"
                            ]
                         },
                         {
@@ -43064,13 +43109,6 @@
                            ]
                         },
                         {
-                           "url": "https://www.udacity.com/course/advanced-android-with-kotlin--ud940",
-                           "title": "Advanced Android with Kotlin",
-                           "notes": [
-                              "Udacity"
-                           ]
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl",
                            "title": "Android App Development for Beginners Playlist",
                            "author": "Bucky Roberts",
@@ -43154,11 +43192,6 @@
                            "author": "Telusko"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV",
-                           "title": "Android with kotlin",
-                           "author": "Smartherd"
-                        },
-                        {
                            "url": "https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905",
                            "title": "Build Native Mobile Apps with Flutter",
                            "notes": [
@@ -43184,13 +43217,6 @@
                         {
                            "url": "https://www.udacity.com/course/new-android-fundamentals--ud851",
                            "title": "Developing Android Apps",
-                           "notes": [
-                              "Udacity"
-                           ]
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012",
-                           "title": "Developing Android Apps with Kotlin",
                            "notes": [
                               "Udacity"
                            ]
@@ -43226,13 +43252,6 @@
                            "url": "https://developer.android.com/courses/jetpack-compose/course",
                            "title": "Jetpack Compose for Android Developers",
                            "author": "Google Developers Training"
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011",
-                           "title": "Kotlin Bootcamp for Programmers",
-                           "notes": [
-                              "Udacity"
-                           ]
                         },
                         {
                            "url": "https://www.udemy.com/course/learn-android-application-development-y/",
@@ -46310,6 +46329,11 @@
                                  ]
                               },
                               {
+                                 "url": "https://v2.scrimba.com/learn-bootstrap-c0o",
+                                 "title": "Learn Bootstrap",
+                                 "author": "Scrimba"
+                              },
+                              {
                                  "url": "https://scrimba.com/learn/bootstrap4",
                                  "title": "Learn Bootstrap 4 for free",
                                  "author": "Neil Rowe",
@@ -47237,6 +47261,11 @@
                                  "author": "Codevolution"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw",
+                                 "title": "Next.js Tutorial for Beginners",
+                                 "author": "Net Ninja"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Pk-QJIdGd1tGZEzy9RTgtj",
                                  "title": "Next.js Tutorials for Beginners",
                                  "author": "Dave Gray"
@@ -47890,6 +47919,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV",
                            "title": "Android Kotlin Tutorial: Create Android Apps using Kotlin",
                            "author": "Sriyank Siddhartha"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV",
+                           "title": "Android with kotlin",
+                           "author": "Smartherd"
                         },
                         {
                            "url": "https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012",
@@ -49659,6 +49693,11 @@
                         {
                            "url": "https://www.coursera.org/course/reactive",
                            "title": "Functional Programming in Scala Specialization"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM",
+                           "title": "Scala at Light Speed",
+                           "author": "Rock the JVM"
                         }
                      ],
                      "subsections": []
@@ -53848,6 +53887,21 @@
                            ]
                         },
                         {
+                           "section": "Material UI",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL8u9CiaEfFDaR0ipsKfHdnZccTm10J7-3",
+                                 "title": "Material UI Tutorial for Beginners in Hindi",
+                                 "author": "Basics Adda"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL8p2I9GklV4722H3_nosmpdjNXIPuBUXm",
+                                 "title": "Reactjs material ui in hindi",
+                                 "author": "Code Step By Step"
+                              }
+                           ]
+                        },
+                        {
                            "section": "Tailwind CSS",
                            "entries": [
                               {
@@ -55935,6 +55989,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et",
                            "title": "Belajar JavaScript Async",
                            "author": "Eko Kurniawan Khannedy, Programmer Zaman Now"
+                        },
+                        {
+                           "url": "https://app.sko.dev/kelas/belajar-javascript-untuk-website",
+                           "title": "Belajar JavaScript Untuk Website",
+                           "author": "sko.dev"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w",
@@ -65350,6 +65409,11 @@
                         {
                            "url": "https://angular.io/guide/cheatsheet",
                            "title": "Angular Cheat Sheet"
+                        },
+                        {
+                           "url": "https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/",
+                           "title": "Angular Cheat Sheet – A Basic Guide to Angular",
+                           "author": "GeeksforGeeks"
                         }
                      ],
                      "subsections": []
@@ -65516,6 +65580,11 @@
                   {
                      "section": "C++",
                      "entries": [
+                        {
+                           "url": "https://www.geeksforgeeks.org/cpp-cheatsheet",
+                           "title": "C++ Cheatsheet",
+                           "author": "GeeksforGeeks"
+                        },
                         {
                            "url": "https://www.codewithharry.com/blogpost/cpp-cheatsheet",
                            "title": "C++ Cheatsheet",
@@ -66870,6 +66939,11 @@
                            "url": "https://overapi.com/python",
                            "title": "Python Cheat Sheet",
                            "author": "OverAPI"
+                        },
+                        {
+                           "url": "https://www.geeksforgeeks.org/python-cheat-sheet",
+                           "title": "Python Cheat sheet (2024)",
+                           "author": "GeeksforGeeks"
                         },
                         {
                            "url": "https://ehmatthes.github.io/pcc/cheatsheets/README.html",
@@ -69108,6 +69182,14 @@
                   {
                      "section": "C++",
                      "entries": [
+                        {
+                           "url": "https://cpp.sh",
+                           "title": "C++ Shell"
+                        },
+                        {
+                           "url": "https://codapi.org/cpp",
+                           "title": "Codapi"
+                        },
                         {
                            "url": "https://ide.codingblocks.com",
                            "title": "Coding Blocks"
