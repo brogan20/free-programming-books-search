@@ -2234,7 +2234,7 @@
                      "section": "C",
                      "entries": [
                         {
-                           "url": "https://repository.kallipos.gr/bitstream/11419/1346/1/00_master%20document_KOY.pdf",
+                           "url": "https://repository.kallipos.gr/bitstream/11419/1346/3/00_master%20document_KOY.pdf",
                            "title": "Διαδικαστικός προγραμματισμός",
                            "author": "Μαστοροκώστας Πάρις",
                            "notes": [
@@ -16290,7 +16290,10 @@
                               {
                                  "url": "https://www.programming-books.io/essential/reactnative/",
                                  "title": "Essential React Native",
-                                 "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
+                                 "author": "Krzysztof Kowalczyk, StackOverflow Contributors",
+                                 "notes": [
+                                    "CC BY-SA"
+                                 ]
                               },
                               {
                                  "url": "http://browniefed.com/react-native-animation-book/",
@@ -16305,7 +16308,8 @@
                                  "title": "React Native Notes for Professionals",
                                  "author": "Compiled from StackOverflow documentation",
                                  "notes": [
-                                    "PDF"
+                                    "PDF",
+                                    "CC BY-SA"
                                  ]
                               },
                               {
@@ -16367,7 +16371,10 @@
                               {
                                  "url": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started",
                                  "title": "Getting started with Svelte",
-                                 "author": "MDN Web Docs"
+                                 "author": "MDN Web Docs",
+                                 "notes": [
+                                    "CC BY-SA"
+                                 ]
                               },
                               {
                                  "url": "https://svelte.dev/tutorial/basics",
@@ -16401,7 +16408,8 @@
                                  "title": "Learning Vue.js",
                                  "author": "Compiled from StackOverflow Documentation",
                                  "notes": [
-                                    "PDF"
+                                    "PDF",
+                                    "CC BY-SA"
                                  ]
                               },
                               {
@@ -16431,7 +16439,8 @@
                            "url": "http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf",
                            "title": "Jenkins: The Definitive Guide",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-ND"
                            ]
                         },
                         {
@@ -16445,7 +16454,8 @@
                            "url": "https://riptutorial.com/Download/jenkins.pdf",
                            "title": "Learning Jenkins",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         }
                      ],
@@ -16457,7 +16467,10 @@
                         {
                            "url": "https://en.wikibooks.org/wiki/Introducing_Julia",
                            "title": "Introducing Julia",
-                           "author": "Wikibooks"
+                           "author": "Wikibooks",
+                           "notes": [
+                              "CC BY-SA"
+                           ]
                         },
                         {
                            "url": "http://samuelcolvin.github.io/JuliaByExample",
@@ -16470,7 +16483,10 @@
                         {
                            "url": "https://juliadatascience.io",
                            "title": "Julia Data Science",
-                           "author": "Jose Storopoli, Rik Huijzer, Lazaro Alonso"
+                           "author": "Jose Storopoli, Rik Huijzer, Lazaro Alonso",
+                           "notes": [
+                              "CC BY-NC-SA"
+                           ]
                         },
                         {
                            "url": "https://syl1.gitbook.io/julia-language-a-concise-tutorial",
@@ -16483,7 +16499,10 @@
                         {
                            "url": "https://learnxinyminutes.com/docs/julia",
                            "title": "Learn Julia in Y minutes",
-                           "author": "Leah Hanson"
+                           "author": "Leah Hanson",
+                           "notes": [
+                              "CC BY-SA"
+                           ]
                         },
                         {
                            "url": "https://julia.quantecon.org",
@@ -16505,7 +16524,8 @@
                            "title": "Think Julia",
                            "author": "Ben Lauwens, Allen Downey",
                            "notes": [
-                              "GitBook"
+                              "GitBook",
+                              "CC BY-NC"
                            ]
                         }
                      ],
@@ -16517,14 +16537,18 @@
                         {
                            "url": "https://www.programming-books.io/essential/kotlin/",
                            "title": "Essential Kotlin",
-                           "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
+                           "author": "Krzysztof Kowalczyk, StackOverflow Contributors",
+                           "notes": [
+                              "CC BY-SA"
+                           ]
                         },
                         {
                            "url": "https://goalkicker.com/KotlinBook/",
                            "title": "Kotlin Notes for Professionals",
                            "author": "Compiled from StackOverflow documentation",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -16536,7 +16560,8 @@
                            "title": "Kotlin Quick Reference",
                            "author": "Alvin Alexander",
                            "notes": [
-                              "gitbook"
+                              "gitbook",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -16549,7 +16574,8 @@
                            "title": "Learning Kotlin",
                            "author": "Compiled from StackOverflow Documentation",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         }
                      ],
@@ -16573,14 +16599,18 @@
                               {
                                  "url": "https://en.wikibooks.org/wiki/LaTeX",
                                  "title": "LaTeX",
-                                 "author": "Wikibooks"
+                                 "author": "Wikibooks",
+                                 "notes": [
+                                    "CC BY-SA"
+                                 ]
                               },
                               {
                                  "url": "https://goalkicker.com/LaTeXBook/",
                                  "title": "LaTex Notes for Professionals",
                                  "author": "Compiled from StackOverflow documentation",
                                  "notes": [
-                                    "PDF"
+                                    "PDF",
+                                    "CC BY-SA"
                                  ]
                               },
                               {
@@ -28754,6 +28784,15 @@
                            "url": "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning",
                            "title": "Understanding Machine Learning: From Theory to Algorithms",
                            "author": "Shai Shalev-Shwartz, Shai Ben-David"
+                        },
+                        {
+                           "url": "https://scikit-learn.org/stable/user_guide.html",
+                           "title": "User Guide - scikit-learn",
+                           "author": "Scikit-learn developers",
+                           "notes": [
+                              "HTML",
+                              "BSD"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -30750,7 +30789,8 @@
                         },
                         {
                            "url": "https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/",
-                           "title": "Type Theory and Functional Programming"
+                           "title": "Type Theory and Functional Programming",
+                           "author": "Simon Thompson"
                         }
                      ],
                      "subsections": []
@@ -30901,6 +30941,7 @@
                         {
                            "url": "https://github.com/iosre/iOSAppReverseEngineering",
                            "title": "iOS App Reverse Engineering",
+                           "author": "Zishe Sha",
                            "notes": [
                               "PDF"
                            ]
@@ -31127,7 +31168,10 @@
                         {
                            "url": "https://www.domainlanguage.com/ddd/reference",
                            "title": "Domain-Driven Design Reference",
-                           "author": "Eric Evans"
+                           "author": "Eric Evans",
+                           "notes": [
+                              "CC BY"
+                           ]
                         },
                         {
                            "url": "http://dslbook.org",
@@ -44494,11 +44538,6 @@
                            "url": "https://www.coursera.org/course/crypto",
                            "title": "Stanford Cryptography I",
                            "author": "Dan Boneh"
-                        },
-                        {
-                           "url": "https://www.coursera.org/course/crypto2",
-                           "title": "Stanford Cryptography II",
-                           "author": "Dan Boneh"
                         }
                      ],
                      "subsections": []
@@ -46484,6 +46523,17 @@
                            "url": "https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZLLvLwuW8AP3n-A3nsRn9P",
                            "title": "Unit Testing in iOS",
                            "author": "CodeWithChris"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "IDE and editors",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R",
+                           "title": "Vim As Your Editor",
+                           "author": "ThePrimeagen"
                         }
                      ],
                      "subsections": []
@@ -69377,6 +69427,10 @@
                      "section": "Docker",
                      "entries": [
                         {
+                           "url": "https://labex.io/tutorials/docker-online-docker-playground-372912",
+                           "title": "Online Docker Playground"
+                        },
+                        {
                            "url": "https://labs.play-with-docker.com",
                            "title": "Play with Docker"
                         }
@@ -69566,6 +69620,10 @@
                            "title": "JDoodle - Online Java Compiler IDE"
                         },
                         {
+                           "url": "https://labex.io/tutorials/java-online-java-playground-372914",
+                           "title": "Online Java Playground"
+                        },
+                        {
                            "url": "https://www.onlinegdb.com/online_java_compiler",
                            "title": "OnlineGDB"
                         },
@@ -69690,6 +69748,16 @@
                         {
                            "url": "https://labs.play-with-k8s.com",
                            "title": "Play with Kubernetes"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Linux",
+                     "entries": [
+                        {
+                           "url": "https://labex.io/tutorials/linux-online-linux-playground-372915",
+                           "title": "Online Linux Terminal and Playground"
                         }
                      ],
                      "subsections": []
