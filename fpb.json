@@ -23360,7 +23360,8 @@
                                  "title": "Sistemas Operacionais: Conceitos e Mecanismos",
                                  "author": "Carlos A. Maziero",
                                  "notes": [
-                                    "PDF"
+                                    "PDF",
+                                    "CC BY-NC-SA"
                                  ],
                                  "accessNotes": ":construction: em contínuo desenvolvimento"
                               }
@@ -23916,11 +23917,20 @@
                      "section": "Inteligência Artificial",
                      "entries": [
                         {
+                           "url": "https://editorapantanal.com.br/ebooks/2021/aplicacoes-de-machine-learning/ebook.pdf",
+                           "title": "Aplicações de Machine Learning",
+                           "author": "Ricardo Augusto Manfredini, Geraldo Nunes Corrêa, Bruno Rodrigues de Oliveira, Suellen Teixeira Zaradzki de Pauli",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181",
                            "title": "Inteligência artificial: avanços e tendências",
                            "author": "Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -23928,7 +23938,8 @@
                            "title": "Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português",
                            "author": "Helena M. Caseli, Maria G. V. Nunes",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-ND"
                            ]
                         }
                      ],
@@ -23942,7 +23953,8 @@
                            "title": "A Internet das Coisas",
                            "author": "Eduardo Magrani",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         }
                      ],
