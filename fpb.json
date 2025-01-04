@@ -49877,8 +49877,8 @@
                            ]
                         },
                         {
-                           "url": "https://programming-23.mooc.fi",
-                           "title": "Python Programming MOOC 2023",
+                           "url": "https://programming-25.mooc.fi",
+                           "title": "Python Programming MOOC 2025",
                            "author": "University of Helsinki"
                         },
                         {
@@ -52701,6 +52701,11 @@
                            "url": "https://mooc.fi",
                            "title": "Mooc",
                            "author": "Laadukkaita, avoimia ja ilmaisia verkkokursseja kaikille"
+                        },
+                        {
+                           "url": "https://fitech.io/fi/ohjelmointi/",
+                           "title": "Ohjelmointi",
+                           "author": "FITech"
                         }
                      ],
                      "subsections": []
@@ -52709,9 +52714,9 @@
                      "section": "Python",
                      "entries": [
                         {
-                           "url": "https://linkki.github.io/python2017",
-                           "title": "Helsingin yliopiston Python-ohjelmointikurssi",
-                           "author": "Ilmainen verkkokurssi"
+                           "url": "https://ohjelmointi-25.mooc.fi",
+                           "title": "Ohjelmoinnin perusteet ja jatkokurssi",
+                           "author": "Helsingin yliopisto"
                         }
                      ],
                      "subsections": []
@@ -52723,6 +52728,11 @@
                            "url": "https://fullstackopen.com",
                            "title": "Full stack open",
                            "author": "University of Helsinki"
+                        },
+                        {
+                           "url": "https://fitech.io/fi/web-ohjelmointi/",
+                           "title": "Web-ohjelmointi",
+                           "author": "FITech"
                         }
                      ],
                      "subsections": []
