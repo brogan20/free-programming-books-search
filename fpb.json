@@ -779,6 +779,11 @@
                ]
             },
             {
+               "language": {},
+               "index": {},
+               "sections": []
+            },
+            {
                "language": {
                   "code": "cs",
                   "name": "Czech"
@@ -11470,14 +11475,18 @@
                         {
                            "url": "http://pacman128.github.io/pcasm/",
                            "title": "PC Assembly Language",
-                           "author": "P. A. Carter"
+                           "author": "P. A. Carter",
+                           "notes": [
+                              "CC BY-NC-SA"
+                           ]
                         },
                         {
                            "url": "https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf",
                            "title": "Programming from the Ground Up",
                            "author": "Jonathan Bartlett",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "GFDL"
                            ]
                         },
                         {
@@ -11523,7 +11532,8 @@
                            "title": "x86-64 Assembly Language Programming with Ubuntu",
                            "author": "Ed Jorgensen",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -18254,9 +18264,9 @@
                            "title": "Exploring Programming Language Architecture in Perl"
                         },
                         {
-                           "url": "http://www.extremeperl.org/bk/home",
+                           "url": "https://www.extremeperl.org",
                            "title": "Extreme Perl",
-                           "author": "R. Nagier",
+                           "author": "Robert Nagler",
                            "notes": [
                               "HTML, PDF"
                            ]
@@ -48337,6 +48347,11 @@
                      "section": "Astro",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLMZnTut8a7icI97DDc2izk6nOoNlHyXgw",
+                           "title": "Astro",
+                           "author": "Stefan Rows"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLoqZcxvpWzzeRwF8TEpXHtO7KYY6cNJeF",
                            "title": "Astro Blog Course",
                            "author": "Coding in Public"
@@ -48401,6 +48416,11 @@
                                  "author": "coderJeet"
                               },
                               {
+                                 "url": "https://www.youtube.com/watch?v=fP-371MN0Ck",
+                                 "title": "Electron Course - Code Desktop Applications (inc. React and Typescript)",
+                                 "author": "freeCodeCamp.org"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW",
                                  "title": "Electron js Tutorials",
                                  "author": "Codevolution"
@@ -48452,9 +48472,19 @@
                      "section": "Nest.js",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL1BztTYDF-QPfrzXwoC_6OSLs818uAqN2",
+                           "title": "Comprehensive Nest JS Course: From Beginner to Expert",
+                           "author": "procademy"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=sFnAHC9lLaw",
                            "title": "Learn NestJS – Complete Course",
                            "author": "freeCodeCamp"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLIGDNOJWiL1_YrquGbDDN4BNNRy678Spr",
+                           "title": "Nest JS Advanced Course [Latest]",
+                           "author": "Code with tkssharma"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr",
@@ -48465,6 +48495,16 @@
                            "url": "https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB",
                            "title": "NestJs",
                            "author": "Marius Espejo"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLhnVDNT5zYN_PfPXedWpMy_UTeYNExbfR",
+                           "title": "NestJS Full Course 2024",
+                           "author": "Sakura Dev"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MexSAh5x1R3rU6Mg2zYBVr",
+                           "title": "NestJS Tutorials for Beginners",
+                           "author": "Dave Gray"
                         }
                      ],
                      "subsections": [
@@ -48781,6 +48821,11 @@
                                  "author": "The Net Ninja"
                               },
                               {
+                                 "url": "https://www.youtube.com/watch?v=TtPXvEcE11E",
+                                 "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
+                                 "author": "SuperSimpleDev"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC",
                                  "title": "React Tutorials",
                                  "author": "freeCodeCamp"
@@ -48895,6 +48940,21 @@
                                  "url": "https://www.youtube.com/watch?v=poQXNp9ItL4",
                                  "title": "Redux Tutorial- Learn Redux from Scratch",
                                  "author": "Mosh Hamedani"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Remix",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/watch?v=5yIivwrvH6w",
+                                 "title": "Remix and Strapi Crash Course – Full Stack Development",
+                                 "author": "freeCodeCamp.org"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/live/hsIWJpuxNj0",
+                                 "title": "Remix Tutorial with Kent",
+                                 "author": "Remix"
                               }
                            ]
                         },
@@ -52194,6 +52254,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Inteligencia Artificial",
+                     "entries": [
+                        {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/es",
+                           "title": "Generative AI para Principiantes .NET - Un Curso",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "LaTeX",
                      "entries": [
                         {
@@ -54422,6 +54496,11 @@
                            "author": "Noob Coders"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLDnEHblf8hExnR-Xpmrpu3GdeO_4YJ_tD",
+                           "title": "Bash Scripting | Complete Course In Hindi",
+                           "author": "ENCODERSPRO"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLxLRoXCDIalcosmDOQizh31EIHEK1njfO",
                            "title": "Bash Scripting tutorial",
                            "author": "Fortify Solutions"
@@ -54435,6 +54514,16 @@
                            "url": "https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL",
                            "title": "shell scripting complete tutorial in hindi",
                            "author": "Cybersploit"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLrFWmDe-rblpqyEzyAW6TMJyut-pbQHlr",
+                           "title": "Shell Scripting Linux Beginners to Advanced in Hindi | Shell Scripting Tutorials for Beginner to Advanced in Hindi",
+                           "author": "Cloud Tech Burner"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL0tP8lerTbX3MeIyMxGW2sLhWnPdn_xhd",
+                           "title": "SHELL SCRIPTING Tutorial For Beginners",
+                           "author": "M Prashant"
                         }
                      ],
                      "subsections": []
@@ -55523,6 +55612,11 @@
                   {
                      "section": "Spring Boot",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLX1XVaZeuvXfDHGqgYF6WBZsBjpA-hCCa",
+                           "title": "Spring Boot complete course in Hindi",
+                           "author": "Bits And Bytes"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLJc-LD5TzDQToG2MOYDAuCl-JFZoMBxgC",
                            "title": "Spring Boot In Hindi",
@@ -59633,6 +59727,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Generative AI",
+                     "entries": [
+                        {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/ko",
+                           "title": "초보자를 위한 Generative AI .NET - 강좌",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Git",
                      "entries": [
                         {
@@ -62154,6 +62262,14 @@
                            "author": "Gustavo Guanabara",
                            "notes": [
                               "Curso em Vídeo"
+                           ]
+                        },
+                        {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/pt",
+                           "title": "IA Generativa para Iniciantes .NET - Um Curso",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
                            ]
                         }
                      ],
@@ -66509,9 +66625,19 @@
                      "section": "C",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL0yiR-15Ytq8ro6SA-0JWkdyihxxVc_cB",
+                           "title": "C Language Tutorials (Urdu/Hindi)",
+                           "author": "AssadUllahCh"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa",
                            "title": "C language tutorial for beginners Urdu/Hindi",
-                           "author": "Fahad Hussain‏"
+                           "author": "Fahad Hussain"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLezGSay-CjmxobCUsJnIelVG5kM12qKY_",
+                           "title": "C Programming for Beginners Urdu/Hindi",
+                           "author": "Super Learning"
                         }
                      ],
                      "subsections": []
@@ -68977,6 +69103,14 @@
                      "section": "AI",
                      "entries": [
                         {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/zh",
+                           "title": "初学者的生成式 AI .NET - 一门课程",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
+                           ]
+                        },
+                        {
                            "url": "https://zh.d2l.ai/index.html",
                            "title": "动手学深度学习",
                            "author": "d2lzh"
@@ -69039,6 +69173,26 @@
                            "url": "https://www.youtube.com/playlist?list=PLVyDH2ns1F75k1hvD2apA0DwI3XMiSDqp",
                            "title": "最新Python编程教程19天从入门到精通",
                            "author": "知知识改变命运"
+                        }
+                     ],
+                     "subsections": []
+                  }
+               ]
+            },
+            {
+               "language": {},
+               "index": {},
+               "sections": [
+                  {
+                     "section": "AI",
+                     "entries": [
+                        {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/tw",
+                           "title": "初學者的生成式 AI .NET 課程",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -73989,6 +74143,11 @@
                         {
                            "url": "https://atcoder.jp",
                            "title": "AtCoder"
+                        },
+                        {
+                           "url": "https://atcoder.jp/contests/dp",
+                           "title": "Atcoder DP Contest",
+                           "author": "Atcoder"
                         },
                         {
                            "url": "https://www.beecrowd.com.br",
