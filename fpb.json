@@ -11852,7 +11852,8 @@
                            "title": "The Linux Command Line",
                            "author": "William E. Shotts Jr.",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-ND"
                            ]
                         },
                         {
@@ -12154,7 +12155,8 @@
                            "title": "Modern C",
                            "author": "Jens Gustedt",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-ND"
                            ]
                         },
                         {
@@ -15103,6 +15105,14 @@
                            "author": "James Gosling, et al."
                         },
                         {
+                           "url": "https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/dev-guide-nb.pdf",
+                           "title": "Java ME 3.4 Developer's Guide for NetBeans on Windows",
+                           "author": "Oracle",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://goalkicker.com/JavaBook/",
                            "title": "Java Notes for Professionals",
                            "author": "Compiled from StackOverflow documentation",
@@ -15179,8 +15189,7 @@
                         {
                            "url": "https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp",
                            "title": "Playing with Java Microservices on Kubernetes and OpenShift",
-                           "author": "Nebrass Lamouchi",
-                           "accessNotes": "Leanpub account or valid email requested"
+                           "author": "Nebrass Lamouchi"
                         },
                         {
                            "url": "http://www.cafeconleche.org/books/xmljava/",
@@ -17306,8 +17315,7 @@
                         {
                            "url": "https://leanpub.com/lispwebtales",
                            "title": "Lisp Web Tales",
-                           "author": "Pavel Penev",
-                           "accessNotes": "Leanpub account or valid email requested"
+                           "author": "Pavel Penev"
                         },
                         {
                            "url": "https://leanpub.com/lovinglisp/read",
@@ -17440,6 +17448,14 @@
                   {
                      "section": "Make",
                      "entries": [
+                        {
+                           "url": "https://www.gnu.org/software/make/manual",
+                           "title": "GNU Make Manual",
+                           "author": "GNU",
+                           "notes": [
+                              "PDF, HTML, Info, Tex"
+                           ]
+                        },
                         {
                            "url": "https://makefiletutorial.com",
                            "title": "Makefile tutorial",
@@ -18739,8 +18755,7 @@
                         {
                            "url": "https://leanpub.com/powershell101",
                            "title": "PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell",
-                           "author": "Mike F. Robbins",
-                           "accessNotes": "Leanpub account or valid email requested"
+                           "author": "Mike F. Robbins"
                         },
                         {
                            "url": "http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf",
@@ -19022,7 +19037,8 @@
                            "title": "Automate the Boring Stuff with Python, 3nd Edition: Practical Programming for Total Beginners",
                            "author": "Al Sweigart",
                            "notes": [
-                              "HTML"
+                              "HTML",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -19269,6 +19285,15 @@
                            ]
                         },
                         {
+                           "url": "https://openstax.org/details/books/introduction-python-programming",
+                           "title": "Introduction to Python",
+                           "author": "OpenStax",
+                           "notes": [
+                              "PDF",
+                              "CC BY"
+                           ]
+                        },
+                        {
                            "url": "https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf",
                            "title": "Introduction to Python for Econometrics, Statistics and Numerical Analysis",
                            "author": "Kevin Sheppard",
@@ -19379,7 +19404,8 @@
                            "title": "Modeling and Simulation in Python",
                            "author": "Allen B. Downey",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC"
                            ]
                         },
                         {
@@ -19845,8 +19871,8 @@
                            ]
                         },
                         {
-                           "url": "https://greenteapress.com/wp/think-python-2e/",
-                           "title": "Think Python 2nd Edition",
+                           "url": "https://greenteapress.com/wp/think-python-3rd-edition/",
+                           "title": "Think Python 3rd Edition",
                            "author": "Allen B. Downey",
                            "notes": [
                               "3.x",
@@ -20516,6 +20542,14 @@
                            ]
                         },
                         {
+                           "url": "https://docs.raku.org",
+                           "title": "Raku Documentation",
+                           "author": "Raku Documentation",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://raku.guide",
                            "title": "Raku Guide",
                            "notes": [
@@ -20944,11 +20978,17 @@
                         {
                            "url": "https://stevedonovan.github.io/rust-gentle-intro",
                            "title": "A Gentle Introduction To Rust",
-                           "author": "Steve J Donovan"
+                           "author": "Steve J Donovan",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://rust-lang.github.io/async-book",
-                           "title": "Asynchronous Programming in Rust"
+                           "title": "Asynchronous Programming in Rust",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://dhghomon.github.io/easy_rust/",
@@ -20976,16 +21016,25 @@
                         },
                         {
                            "url": "https://rustc-dev-guide.rust-lang.org",
-                           "title": "Guide to Rustc Development"
+                           "title": "Guide to Rustc Development",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://learnxinyminutes.com/docs/rust/",
-                           "title": "Learn Rust in Y minutes"
+                           "title": "Learn Rust in Y minutes",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://rust-unofficial.github.io/too-many-lists",
                            "title": "Learn Rust With Entirely Too Many Linked Lists",
-                           "author": "Alexis Beingessner"
+                           "author": "Alexis Beingessner",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://riptutorial.com/Download/rust.pdf",
@@ -21005,42 +21054,69 @@
                         },
                         {
                            "url": "https://doc.rust-lang.org/stable/rust-by-example",
-                           "title": "Rust by Example"
+                           "title": "Rust by Example",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://rust-lang-nursery.github.io/rust-cookbook",
-                           "title": "Rust Cookbook"
+                           "title": "Rust Cookbook",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://rust-unofficial.github.io/patterns/",
-                           "title": "Rust Design Patterns"
+                           "title": "Rust Design Patterns",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://web.archive.org/web/20190520171322/http://www.rustforrubyists.com/book",
                            "title": "Rust for Rubyists",
                            "author": "Steve Klabnik",
+                           "notes": [
+                              "HTML"
+                           ],
                            "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://github.com/nrc/r4cppp",
                            "title": "Rust For Systems Programmers",
-                           "author": "Nick Cameron"
+                           "author": "Nick Cameron",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://docs.rust-embedded.org/book/intro/index.html",
-                           "title": "The Embedded Rust Book"
+                           "title": "The Embedded Rust Book",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://danielkeep.github.io/tlborm/book",
-                           "title": "The Little Book of Rust Macros"
+                           "title": "The Little Book of Rust Macros",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://github.com/rust-lang/reference",
-                           "title": "The Rust Language Reference"
+                           "title": "The Rust Language Reference",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://nnethercote.github.io/perf-book",
-                           "title": "The Rust Performance Book"
+                           "title": "The Rust Performance Book",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "http://doc.rust-lang.org/book",
@@ -21052,19 +21128,31 @@
                         },
                         {
                            "url": "https://rust-lang.github.io/rfcs",
-                           "title": "The Rust RFC Book"
+                           "title": "The Rust RFC Book",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://doc.rust-lang.org/rustc",
-                           "title": "The Rustc Book"
+                           "title": "The Rustc Book",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://doc.rust-lang.org/nomicon",
-                           "title": "The Rustonomicon"
+                           "title": "The Rustonomicon",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.oreilly.com/content/why-rust",
-                           "title": "Why Rust?"
+                           "title": "Why Rust?",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -22127,16 +22215,25 @@
                         {
                            "url": "https://www.programming-books.io/essential/typescript/",
                            "title": "Essential TypeScript",
-                           "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
+                           "author": "Krzysztof Kowalczyk, StackOverflow Contributors",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://learnxinyminutes.com/docs/typescript/",
-                           "title": "Learn TypeScript in Y Minutes"
+                           "title": "Learn TypeScript in Y Minutes",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://exploringjs.com/tackling-ts/toc.html",
                            "title": "Tackling TypeScript: Upgrading from JavaScript",
-                           "author": "Axel Rauschmayer"
+                           "author": "Axel Rauschmayer",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.totaltypescript.com/books/total-typescript-essentials",
@@ -22148,25 +22245,40 @@
                         {
                            "url": "https://accelerated.amimetic.co.uk",
                            "title": "TypeScript Accelerated",
-                           "author": "James Porter"
+                           "author": "James Porter",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://basarat.gitbooks.io/typescript/",
-                           "title": "TypeScript Deep Dive"
+                           "title": "TypeScript Deep Dive",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "http://www.infoq.com/minibooks/typescript-c-sharp-programmers",
-                           "title": "TypeScript for C# Programmers"
+                           "title": "TypeScript for C# Programmers",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
                            "title": "TypeScript Handbook",
-                           "author": "Microsoft"
+                           "author": "Microsoft",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/",
                            "title": "TypeScript Handbook for React Developers",
-                           "author": "Yazdun Fadali"
+                           "author": "Yazdun Fadali",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf",
@@ -22246,7 +22358,10 @@
                            "entries": [
                               {
                                  "url": "https://deno.land/manual",
-                                 "title": "Deno Manual"
+                                 "title": "Deno Manual",
+                                 "notes": [
+                                    "HTML"
+                                 ]
                               },
                               {
                                  "url": "https://flaviocopes.com/page/deno-handbook/",
@@ -22348,6 +22463,14 @@
                   {
                      "section": "Verilog",
                      "entries": [
+                        {
+                           "url": "https://systemverilog.dev",
+                           "title": "SystemVerilog",
+                           "author": "Keyi Zhang",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
                         {
                            "url": "https://zipcpu.com/tutorial/",
                            "title": "Verilog, Formal Verification and Verilator Beginner's Tutorial",
@@ -22577,6 +22700,18 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://zig.guide",
+                           "title": "Zig Guide",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://devdocs.io/zig",
+                           "title": "Zig Language Reference",
+                           "author": "DevDocs"
                         },
                         {
                            "url": "https://ziglang.org/documentation/master",
@@ -27482,14 +27617,6 @@
                            "author": "Wikibooks"
                         },
                         {
-                           "url": "https://inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf",
-                           "title": "Data Structures (Into Java)",
-                           "author": "Paul N. Hilfinger",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf",
                            "title": "Data Structures and Algorithm Analysis in C++",
                            "author": "Clifford A. Shaffer",
@@ -29960,14 +30087,18 @@
                         {
                            "url": "https://www.greenteapress.com/thinkbayes/",
                            "title": "Think Bayes: Bayesian Statistics Made Simple",
-                           "author": "Allen B. Downey"
+                           "author": "Allen B. Downey",
+                           "notes": [
+                              "CC BY-NC-SA"
+                           ]
                         },
                         {
                            "url": "https://greenteapress.com/thinkstats/",
                            "title": "Think Stats: Probability and Statistics for Programmers",
                            "author": "Allen B. Downey",
                            "notes": [
-                              "using Python"
+                              "using Python",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -30738,6 +30869,14 @@
                            "author": "Charles Weir, James Noble",
                            "notes": [
                               "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf",
+                           "title": "Software-Defined Radio for Engineers",
+                           "author": "Travis Collins, et al.",
+                           "notes": [
+                              "PDF"
                            ]
                         },
                         {
@@ -31533,10 +31672,11 @@
                         {
                            "url": "https://greenteapress.com/wp/think-complexity-2e/",
                            "title": "Think Complexity",
-                           "author": "- Allen B. Downey",
+                           "author": "Allen B. Downey",
                            "notes": [
                               "2nd Edition",
-                              "PDF, HTML"
+                              "PDF, HTML",
+                              "CC BY-NC-SA"
                            ]
                         }
                      ],
@@ -31750,6 +31890,14 @@
                            "author": "Darmawan Salihun",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://sourceware.org/gdb/current/onlinedocs/gdb.html",
+                           "title": "Debugging with GDB",
+                           "author": "Free Software Foundation",
+                           "notes": [
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -33945,6 +34093,20 @@
                            "url": "https://d2l.aivivn.com",
                            "title": "Đắm chìm vào Học sâu",
                            "author": "",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Python",
+                     "entries": [
+                        {
+                           "url": "https://bitbucket.org/tanhuynhng/thinking-python/src/master/",
+                           "title": "Tư duy Python: Cách tư duy như một Nhà khoa học máy tính",
+                           "author": "Allen B.Downey,",
                            "notes": [
                               "HTML"
                            ]
@@ -43179,12 +43341,28 @@
                            "author": "Online Course"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0KC2-N3hv0V3ib-Z6wKkAy",
+                           "title": "Java For Beginners",
+                           "author": "Learn With Tawhid"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l",
                            "title": "Java Swing Bangla Tutorials",
                            "author": "Anisul Islam"
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "Spring Boot",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/watch?v=ELL1Pwd3W28",
+                                 "title": "Spring Boot for Beginners",
+                                 "author": "Yeamim Hossain Sajid"
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": "JavaScript",
@@ -44255,10 +44433,6 @@
                            "title": "Berkeley University CS 61B: Data Structures"
                         },
                         {
-                           "url": "https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI",
-                           "title": "Berkeley's CS 61B: Data Structures"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM",
                            "title": "C Programming & Data Structures",
                            "author": "Neso Academy"
@@ -44272,6 +44446,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLD9781AC5EBC9FA16",
                            "title": "Computer Sc - Programming and Data Structure",
                            "author": "P.P. Chakraborty"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9xmBV_5YoZPKwb4XPB1sG7S6kNpN9JJo",
+                           "title": "CS Tutorials",
+                           "author": "Michael Sambol"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLLvKknWU7N4y_eGpQdg1Y-hORO7cxtoLU",
@@ -44443,7 +44622,8 @@
                         },
                         {
                            "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/",
-                           "title": "MIT's Introduction to Algorithms (Fall 2011)"
+                           "title": "MIT's Introduction to Algorithms (Fall 2011)",
+                           "author": "MIT"
                         },
                         {
                            "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005",
@@ -48209,15 +48389,21 @@
                         },
                         {
                            "url": "https://moocfi.github.io/courses/2013/programming-part-1/",
-                           "title": "Object-Oriented programming with Java, part I"
+                           "title": "Object-Oriented programming with Java, part I",
+                           "author": "University of Helsinki"
                         },
                         {
                            "url": "https://moocfi.github.io/courses/2013/programming-part-2/",
-                           "title": "Object-Oriented programming with Java, part II"
+                           "title": "Object-Oriented programming with Java, part II",
+                           "author": "University of Helsinki"
                         },
                         {
-                           "url": "https://www.coursera.org/course/algs4partI",
-                           "title": "Princeton Algorithms, Part 1"
+                           "url": "https://www.youtube.com/playlist?list=PLsyeobzWxl7oz8yL16PqO1sy9sxdlTuI1",
+                           "title": "RestFul Web Service in Java",
+                           "author": "Telusko",
+                           "notes": [
+                              "Majrul Ansari, Navin Reddy"
+                           ]
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=OuBUUkQfBYM",
@@ -51077,6 +51263,14 @@
                                  "author": "Codemy.com"
                               },
                               {
+                                 "url": "https://www.youtube.com/watch?v=ZxMB6Njs3ck",
+                                 "title": "Learn Django by Building an Online Marketplace - Python Tutorial for Beginners",
+                                 "author": "Stein Helset",
+                                 "notes": [
+                                    "freeCodeCamp"
+                                 ]
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD",
                                  "title": "Python Django Tutorial 2018 for Beginners",
                                  "author": "Clever Programmer"
@@ -51087,7 +51281,7 @@
                                  "author": "Dennis Ivy"
                               },
                               {
-                                 "url": "https://www.youtube.com/playlist?list=PLBfoYdk-WAlyr3cpOiOI4UXBfVVuF05e6",
+                                 "url": "https://www.youtube.com/watch?v=F5mRW0jo-U4",
                                  "title": "Python Django Web Framework - Full Course for Beginners",
                                  "author": "freeCodeCamp",
                                  "notes": [
@@ -58358,6 +58552,11 @@
                            "author": "ID-Networkers"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL2O3HdJI4voEclcVMPqHoS6GSgcVNGIjy",
+                           "title": "Instalasi & Review Linux",
+                           "author": "Indonesia Belajar"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLACzo3mGgHK_D2wkGu4AvUAQiqLC30PTz",
                            "title": "Linux Pemula",
                            "author": "LINUXcare"
@@ -58564,6 +58763,11 @@
                                  "notes": [
                                     "Kawan Koding"
                                  ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLCZlgfAG0GXDlNd0Flz20xksNtJQZWywz",
+                                 "title": "Belajar Laravel 5",
+                                 "author": "Sekolah Koding"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV",
@@ -63854,6 +64058,11 @@
                            "author": "Canal Geek Dev"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL29TaWXah3ibI0ewWkI7xMI952wHEaFTK",
+                           "title": "Curso base de React Native 2025",
+                           "author": "Lucas Souza Dev"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_",
                            "title": "Curso React Native (aprendiz)",
                            "author": "One Bit Code"
@@ -63904,6 +64113,11 @@
                      "section": "Rust",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLjSf4DcGBdiGCNOrCoFgtj0KrUq1MRUME",
+                           "title": "Aprenda Rust",
+                           "author": "CodeShow"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLWmXJQDlXOHX6UdAmXv6euoqDPUtMLpJf",
                            "title": "Programando do 0 ao avançado na linguagem de programação Rust",
                            "author": "Lanby 0xff3 λ"
@@ -63914,6 +64128,11 @@
                   {
                      "section": "Sass",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7",
+                           "title": "Curso de Sass",
+                           "author": "Vida FullStack"
+                        },
                         {
                            "url": "https://www.udemy.com/course/sass-placeholders-o-jeito-certo/",
                            "title": "Sass placeholders: o jeito certo",
@@ -64002,6 +64221,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-",
                            "title": "Curso de Swift - Programação",
                            "author": "Tiago Aguiar"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC",
+                           "title": "Curso grátis Swift e SwiftUI",
+                           "author": "Filipe Deschamps"
                         }
                      ],
                      "subsections": []
@@ -64118,6 +64342,11 @@
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLAp37wMSBouB70jGTeT0JjW_LNC_JBHCo",
+                           "title": "Curso de Segurança com Prática",
+                           "author": "Hardware Redes Brasil"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dkYS6J9KeYgCCVpo5OXkvgE",
@@ -68863,11 +69092,6 @@
                            "author": "Easy Frontend"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m",
-                           "title": "Học React Hooks cơ bản (2020)",
-                           "author": "Easy Frontend"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLeS7aZkL6GOvCz3GiOtvtDXChJRuebb7S",
                            "title": "Học redux cơ bản 2020",
                            "author": "Easy Frontend"
@@ -70660,6 +70884,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Information Security",
+                     "entries": [
+                        {
+                           "url": "https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/",
+                           "title": "Nmap Cheat Sheet)",
+                           "author": "ZeroToMastery.io",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Java",
                      "entries": [
                         {
@@ -71240,11 +71478,11 @@
                      "section": "Python",
                      "entries": [
                         {
-                           "url": "https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2",
-                           "title": "Comprehensive Python Cheat Sheet for Beginners",
-                           "author": "Rishi Sidhu, Medium",
+                           "url": "https://ils.unc.edu/courses/2023_fall/inls560_003/assets/files/python_cheat_sheet-087b0138f25c3aac5bace1199f1c253d.pdf",
+                           "title": "Beginner's Python Cheat Sheet",
+                           "author": "University of North Carolina",
                            "notes": [
-                              "HTML"
+                              "PDF"
                            ]
                         },
                         {
@@ -71372,6 +71610,14 @@
                            "author": "Jeremy Stretch",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.datacamp.com/cheat-sheet/scipy-cheat-sheet-linear-algebra-in-python",
+                           "title": "SciPy Cheat Sheet: Linear Algebra in Python",
+                           "author": "Datacamp",
+                           "notes": [
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -71554,6 +71800,14 @@
                                  "url": "https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch",
                                  "title": "Deep Learning with PyTorch Cheat Sheet",
                                  "author": "Richie Cotton",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
+                                 "url": "https://zerotomastery.io/cheatsheets/pytorch-cheat-sheet/",
+                                 "title": "PyTorch Cheat Sheet",
+                                 "author": "ZeroToMastery",
                                  "notes": [
                                     "HTML"
                                  ]
@@ -71900,6 +72154,14 @@
                            ]
                         },
                         {
+                           "url": "https://zerotomastery.io/cheatsheets/terraform-cheat-sheet/",
+                           "title": "Terraform Cheat Sheet",
+                           "author": "ZeroToMastery",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet",
                            "title": "Terraform Cheatsheet",
                            "author": "Eric Pulsifer",
@@ -71998,6 +72260,20 @@
                            "url": "https://www.guru99.com/unit-testing-guide.html",
                            "title": "What is Unit testing",
                            "author": "Thomas Hamilton",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "VBA",
+                     "entries": [
+                        {
+                           "url": "https://zerotomastery.io/cheatsheets/vba-cheat-sheet/",
+                           "title": "VBA Cheat Sheet",
+                           "author": "ZeroToMastery",
                            "notes": [
                               "HTML"
                            ]
