@@ -12995,7 +12995,10 @@
                         {
                            "url": "https://leanpub.com/coffeescript-ristretto/read",
                            "title": "CoffeeScript Ristretto",
-                           "author": "Reginald Braithwaite"
+                           "author": "Reginald Braithwaite",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://alchaplinsky.github.io/hard-rock-coffeescript/",
@@ -13971,7 +13974,10 @@
                         {
                            "url": "https://leanpub.com/gocrypto/read",
                            "title": "Practical Cryptography With Go",
-                           "author": "Kyle Isom"
+                           "author": "Kyle Isom",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.practical-go-lessons.com",
@@ -13991,10 +13997,9 @@
                            "title": "Production Go",
                            "author": "Herman Schaaf and Shawn Smith",
                            "notes": [
-                              "EPUB, HTML, PDF",
+                              "HTML, EPUB, PDF",
                               " :construction: *in process*"
-                           ],
-                           "accessNotes": "Leanpub account or valid email requested for EPUB or PDF"
+                           ]
                         },
                         {
                            "url": "https://blasrodri.github.io/spaceship-go-gh-pages/",
@@ -15436,7 +15441,10 @@
                         {
                            "url": "https://sheryians.com/download/bibleofjs_by_sheryians",
                            "title": "Bible of JS",
-                           "author": "Harsh Sharma, Sheryians Coding School"
+                           "author": "Harsh Sharma, Sheryians Coding School",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://github.com/tooling/book-of-modern-frontend-tooling",
@@ -15452,7 +15460,7 @@
                            "title": "Building Front-End Web Apps with Plain JavaScript",
                            "author": "Gerd Wagner",
                            "notes": [
-                              "HTML,PDF"
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -15484,7 +15492,7 @@
                            "title": "Designing Scalable JavaScript Applications",
                            "author": "Emmit Scott",
                            "notes": [
-                              "PDF+livebook"
+                              "PDF, livebook"
                            ]
                         },
                         {
@@ -15498,7 +15506,10 @@
                         {
                            "url": "https://frontendmasters.com/guides/javascript-enlightenment/",
                            "title": "DOM Enlightenment",
-                           "author": "Cody Linley"
+                           "author": "Cody Linley",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://eloquentjavascript.net",
@@ -15512,7 +15523,10 @@
                         {
                            "url": "https://www.programming-books.io/essential/javascript/",
                            "title": "Essential Javascript",
-                           "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
+                           "author": "Krzysztof Kowalczyk, StackOverflow Contributors",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "http://exploringjs.com/es6/",
@@ -15583,13 +15597,16 @@
                            "title": "JavaScript ES6 and beyond",
                            "author": "Alberto Montalesi",
                            "notes": [
-                              "PDF, epub"
+                              "PDF, EPUB"
                            ]
                         },
                         {
                            "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
                            "title": "JavaScript For Beginners",
-                           "author": "Microsoft"
+                           "author": "Microsoft",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "http://jsforcats.com",
@@ -15635,7 +15652,6 @@
                         {
                            "url": "http://nicholasjohnson.com/javascript-book/",
                            "title": "JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies",
-                           "author": "Nicholas Johnson",
                            "notes": [
                               "HTML"
                            ]
@@ -15699,7 +15715,10 @@
                         },
                         {
                            "url": "https://www.tutorialspoint.com/javascript/index.htm",
-                           "title": "Javascript Tutorial"
+                           "title": "Javascript Tutorial",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://en.wikibooks.org/wiki/JavaScript",
@@ -15769,7 +15788,10 @@
                         {
                            "url": "https://www.modernjs.com",
                            "title": "Modern JavaScript",
-                           "author": "Daniel Rubio"
+                           "author": "Daniel Rubio",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
@@ -15855,14 +15877,17 @@
                         {
                            "url": "https://exploringjs.com/es5/",
                            "title": "Speaking JavaScript",
-                           "author": "Axel Rauschmayer"
+                           "author": "Axel Rauschmayer",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.ecma-international.org/publications/standards/Ecma-262.htm",
                            "title": "Standard ECMA-262 ECMAScript 2016 Language Specification",
                            "author": "Ecma International",
                            "notes": [
-                              "HTML,PDF"
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -15885,7 +15910,10 @@
                         {
                            "url": "https://github.com/bpesquet/thejsway",
                            "title": "The JavaScript Way",
-                           "author": "Baptiste Pesquet"
+                           "author": "Baptiste Pesquet",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://javascript.info",
@@ -16087,7 +16115,10 @@
                               {
                                  "url": "https://leanpub.com/D3-Tips-and-Tricks/read",
                                  "title": "D3 Tips and Tricks",
-                                 "author": "Malcolm Maclean"
+                                 "author": "Malcolm Maclean",
+                                 "notes": [
+                                    "HTML"
+                                 ]
                               },
                               {
                                  "url": "https://www.dashingd3js.com/d3-tutorial",
@@ -17306,7 +17337,10 @@
                         {
                            "url": "https://leanpub.com/lisphackers/read",
                            "title": "Lisp Hackers: Interviews with 100x More Productive Programmers",
-                           "author": "Vsevolod Dyomkin"
+                           "author": "Vsevolod Dyomkin",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://github.com/google/lisp-koans",
@@ -18966,7 +19000,10 @@
                         {
                            "url": "https://leanpub.com/purescript/read",
                            "title": "PureScript By Example",
-                           "author": "Phil Freeman"
+                           "author": "Phil Freeman",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -20684,7 +20721,10 @@
                         {
                            "url": "https://leanpub.com/developing-games-with-ruby/read",
                            "title": "Developing Games With Ruby",
-                           "author": "Tomas Varaneckas"
+                           "author": "Tomas Varaneckas",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.programming-books.io/essential/ruby/",
@@ -20795,7 +20835,10 @@
                         {
                            "url": "https://leanpub.com/rwdtow/read",
                            "title": "Ruby Web Dev: The Other Way",
-                           "author": "Yevhen Kuzminov"
+                           "author": "Yevhen Kuzminov",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://rubyfu.net",
@@ -20875,7 +20918,10 @@
                               {
                                  "url": "https://leanpub.com/combinators/read",
                                  "title": "Kestrels, Quirky Birds, and Hopeless Egocentricity",
-                                 "author": "Reg Braithwaite"
+                                 "author": "Reg Braithwaite",
+                                 "notes": [
+                                    "HTML"
+                                 ]
                               },
                               {
                                  "url": "https://learn-rails.com/content/learnrails1",
@@ -21221,7 +21267,10 @@
                         {
                            "url": "https://leanpub.com/fpmortals/read",
                            "title": "Functional Programming for Mortals",
-                           "author": "Sam Halliday"
+                           "author": "Sam Halliday",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://alvinalexander.com/photos/functional-programming-simplied-free-pdf-preview",
@@ -21263,7 +21312,10 @@
                         {
                            "url": "https://leanpub.com/pfhais/read",
                            "title": "Pure functional HTTP APIs in Scala",
-                           "author": "Jens Grassel"
+                           "author": "Jens Grassel",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://wrobstory.gitbooks.io/python-to-scala/content/",
@@ -46293,6 +46345,11 @@
                            "author": "Kahan Data Solutions"
                         },
                         {
+                           "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+                           "title": "Data Engineering Zoomcamp",
+                           "author": "DataTalks.Club"
+                        },
+                        {
                            "url": "https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/",
                            "title": "Data Mining with Weka MOOC"
                         },
@@ -51759,6 +51816,11 @@
                            "author": "mytechnotalent"
                         },
                         {
+                           "url": "https://reverseengineering.vercel.app",
+                           "title": "Reverse Engineering Lessons",
+                           "author": "Reverse Engineering Academy"
+                        },
+                        {
                            "url": "https://www.coursera.org/course/crypto",
                            "title": "Stanford Cryptography I",
                            "author": "Dan Boneh"
@@ -56318,6 +56380,11 @@
                                  "url": "https://youtube.com/playlist?list=PLvQjNLQMdagPRDnMQPMs5-vQL_IyAB0St",
                                  "title": "jQuery Tutorial in Hindi",
                                  "author": "Teaching Web"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLp_RsiLZjwQQEtvmHTJRkK-lEuSn0kg7p",
+                                 "title": "jQuery Tutorials",
+                                 "author": "Programentor"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW",
@@ -63186,9 +63253,19 @@
                                  "author": "Felipe Rocha"
                               },
                               {
+                                 "url": "https://cursos.devsamurai.com.br/React%20-%20API%20Github.zip",
+                                 "title": "ReactJS - API GitHub",
+                                 "author": "Dev Samurai"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p",
                                  "title": "ReactJS - Básico",
                                  "author": "Ralf Lima"
+                              },
+                              {
+                                 "url": "https://cursos.devsamurai.com.br/React%20-%20Fundamentos.zip",
+                                 "title": "ReactJS - Fundamentos",
+                                 "author": "Dev Samurai"
                               }
                            ]
                         },
@@ -63438,6 +63515,11 @@
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=LntSB-gl-ZI",
+                           "title": "Guia da Linguagem Markdown",
+                           "author": "Curso em Vídeo"
                         }
                      ],
                      "subsections": []
@@ -63662,6 +63744,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Postgres",
+                     "entries": [
+                        {
+                           "url": "https://cursos.devsamurai.com.br/Backend%20-%20Dominando%20o%20Postgres.zip",
+                           "title": "Dominando o Postgres",
+                           "author": "Dev Samurai"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Programação",
                      "entries": [
                         {
@@ -63683,6 +63776,11 @@
                            "url": "https://www.youtube.com/watch?v=iF2MdbrTiBM",
                            "title": "Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática",
                            "author": "Jonathan de Souza"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL2Fdisxwzt_ebZYgPFL8KeWqBhkF1Q8oe",
+                           "title": "Curso Programação Web Completo",
+                           "author": "Programação Web"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLsGmTzb4NxK2sGY3KqKmg1UTxNTcPPK1Z",
@@ -63969,6 +64067,11 @@
                            "section": "Django",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLnDvRpP8BnewqnMzRnBT5LeTpld5bMvsj",
+                                 "title": "Curso de Django 2",
+                                 "author": "Matheus Battisti"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLLVddSbilcumgeyk0z6ko5U_FYPfbRO2C",
                                  "title": "Curso de Django Aprenda a Desenvolver Aplicações Web Do Zero",
                                  "author": "Jefferson Lobato"
@@ -64013,6 +64116,11 @@
                         {
                            "section": "Flask",
                            "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI",
+                                 "title": "Curso de Flask",
+                                 "author": "Filipe Morelli Developer"
+                              },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLyOx5V4KUjDf3-flamHYkJ2ygYmdRDdE9",
                                  "title": "Flask",
@@ -64234,6 +64342,11 @@
                      "section": "TypeScript",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL9tY_tDo_Q0DOAzTaPnWYsryfNLsz1K6U",
+                           "title": "Curso completo de Typescript",
+                           "author": "Rincko Dev"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
                            "title": "Mini-curso de TypeScript",
                            "author": "Willian Justen Curso"
@@ -64282,6 +64395,16 @@
                                  ]
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLXEUJjGpEX7zwdFSAzIPiSf9p0tOeI1Yu",
+                                 "title": "Curso Angular 17",
+                                 "author": "Code Dimension"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLAHPGKIfQVuIff8XNEhEN9-EJbwiQykCC",
+                                 "title": "Curso Angular 19 na prática",
+                                 "author": "O Dev Lucas"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3",
                                  "title": "Curso Angular 9",
                                  "author": "Cod3r"
@@ -64290,11 +64413,6 @@
                                  "url": "https://loiane.training/curso/angular/",
                                  "title": "Curso de Angular",
                                  "author": "Loiane Groner"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLXEUJjGpEX7zwdFSAzIPiSf9p0tOeI1Yu",
-                                 "title": "Curso de Angular 17",
-                                 "author": "Code Dimension"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLhna1crYw0SOFqiss05ybqJCc6fvGn6BF",
@@ -64320,6 +64438,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLltHgIJnfTsAnyA8KPXC6ohTYzGEreVEa",
                            "title": "Curso de WordPress 2022 Grátis e Completo",
                            "author": "CursoB Cursos Online"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLa3bnULYnrpGrgUyQUXwrIUXk75_jO-n2",
+                           "title": "Curso de WordPress 2025",
+                           "author": "Descomplicando Sites"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2",
@@ -65194,14 +65317,6 @@
                            ]
                         },
                         {
-                           "url": "https://ru.hexlet.io/courses/ruby",
-                           "title": "Введение в Ruby",
-                           "author": "Hexlet",
-                           "notes": [
-                              "BEG"
-                           ]
-                        },
-                        {
                            "url": "https://rubyrush.ru/steps",
                            "title": "Путь Rubyrush",
                            "notes": [
@@ -65513,6 +65628,22 @@
                },
                "index": {},
                "sections": [
+                  {
+                     "section": "AI",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLLHRrAfRqTbPbodOKyV6QeEOMx8KaBiSm",
+                           "title": "AI Tutorials in Tamil",
+                           "author": "Endless Knowledge"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLMn73l82HB5B9oMtKeAexWVdXLRL_BChV",
+                           "title": "Artificial Intelligence Course for Beginners in Tamil",
+                           "author": "Hope Artificial Intelligence"
+                        }
+                     ],
+                     "subsections": []
+                  },
                   {
                      "section": "Android",
                      "entries": [
@@ -70249,8 +70380,24 @@
                            "title": "Big-O Cheat Sheet"
                         },
                         {
+                           "url": "https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/",
+                           "title": "Big O Cheat Sheet",
+                           "author": "ZeroToMastery.io",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://algodaily.com/lessons/big-o-notation-cheat-sheet",
                            "title": "Big O Notation Cheat Sheet"
+                        },
+                        {
+                           "url": "https://zerotomastery.io/cheatsheets/data-structures-and-algorithms-cheat-sheet/",
+                           "title": "Data Structures and Algorithms Cheat Sheet",
+                           "author": "ZeroToMastery",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/",
@@ -70533,6 +70680,14 @@
                            "url": "https://devhints.io/go",
                            "title": "Go Cheatsheet",
                            "author": "devhints, Rico Santa Cruz",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://zerotomastery.io/cheatsheets/golang-cheat-sheet/",
+                           "title": "Go Programming (Golang) Cheat Sheet",
+                           "author": "ZeroToMastery",
                            "notes": [
                               "HTML"
                            ]
@@ -71958,6 +72113,14 @@
                      "section": "Rust",
                      "entries": [
                         {
+                           "url": "https://zerotomastery.io/cheatsheets/rust-cheat-sheet/",
+                           "title": "Rust Cheat Sheet",
+                           "author": "ZeroToMastery",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://quickref.me/rust",
                            "title": "Rust cheatsheet",
                            "author": "QuickRef.ME",
@@ -72046,6 +72209,14 @@
                            ]
                         },
                         {
+                           "url": "https://zerotomastery.io/cheatsheets/solidity-cheat-sheet/",
+                           "title": "Solidity Cheat Sheet",
+                           "author": "ZeroToMastery",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://manojpramesh.github.io/solidity-cheatsheet/",
                            "title": "Solidity Cheatsheet and Best practices",
                            "author": "Manoj Ramesh",
@@ -72121,6 +72292,14 @@
                               "PDF"
                            ],
                            "accessNotes": " :construction: in process"
+                        },
+                        {
+                           "url": "https://zerotomastery.io/cheatsheets/tensorflow-cheat-sheet/",
+                           "title": "TensorFlow Cheat Sheet",
+                           "author": "ZeroToMastery",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://secretdatascientist.com/tensor-flow-cheat-sheet/",
