@@ -21112,10 +21112,6 @@
                            ]
                         },
                         {
-                           "url": "https://rubyfu.net",
-                           "title": "Rubyfu"
-                        },
-                        {
                            "url": "http://ruby.bastardsbook.com",
                            "title": "The Bastards Book of Ruby"
                         },
@@ -32702,14 +32698,6 @@
                   {
                      "section": "Software Architecture",
                      "entries": [
-                        {
-                           "url": "https://leanpub.com/aprimerondesignpatterns/read",
-                           "title": "A Primer on Design Patterns",
-                           "author": "Rahul Batra",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
                         {
                            "url": "https://launchschool.com/books/agile_planning",
                            "title": "Agile Planning: From Ideas to Story Cards",
