@@ -564,6 +564,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Computer Science",
+                     "entries": [
+                        {
+                           "url": "https://docs.learncomputer.in/bn",
+                           "title": "Learn Computer Academy Docs",
+                           "author": "Learn Computer Academy"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Data Science",
                      "entries": [
                         {
@@ -28879,7 +28890,7 @@
                            ]
                         },
                         {
-                           "url": "https://www.csc.kth.se/~jsannemo/slask/main.pdf",
+                           "url": "https://jsannemo.se/latest.pdf",
                            "title": "Principles of Algorithmic Problem Solving",
                            "author": "Johan Sannemo",
                            "notes": [
@@ -69024,6 +69035,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Makine Öğrenmesi",
+                     "entries": [
+                        {
+                           "url": "https://mltraining.org/?lang=tr",
+                           "title": "ML Academy",
+                           "author": "Cagri Temel"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Python",
                      "entries": [
                         {
@@ -72511,6 +72533,14 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/mixseomin/dev-cheatsheets/blob/main/02-docker.md",
+                           "title": "Docker Cheatsheet",
+                           "author": "mixseomin",
+                           "notes": [
+                              "Markdown"
+                           ]
+                        },
+                        {
                            "url": "https://vishnuch.tech/docker-cheatsheet",
                            "title": "Docker Cheatsheet: Docker commands that developers should know",
                            "author": "Vishnu Chilamakuru",
@@ -72781,6 +72811,14 @@
                            "author": "Reyhan Alhafizal",
                            "notes": [
                               "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://github.com/mixseomin/dev-cheatsheets/blob/main/01-git.md",
+                           "title": "Git Cheatsheet",
+                           "author": "mixseomin",
+                           "notes": [
+                              "Markdown"
                            ]
                         },
                         {
@@ -74436,6 +74474,14 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/mixseomin/dev-cheatsheets/blob/main/13-bash.md",
+                           "title": "Bash Scripting Cheatsheet",
+                           "author": "mixseomin",
+                           "notes": [
+                              "Markdown"
+                           ]
+                        },
+                        {
                            "url": "https://devhints.io/cron",
                            "title": "Cron Cheatsheet",
                            "author": "DevHints, Rico Santa Cruz",
@@ -74557,6 +74603,14 @@
                            "author": "Tomi Mester",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://github.com/mixseomin/dev-cheatsheets/blob/main/04-sql.md",
+                           "title": "SQL Cheatsheet",
+                           "author": "mixseomin",
+                           "notes": [
+                              "Markdown"
                            ]
                         }
                      ],
